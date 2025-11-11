@@ -374,7 +374,7 @@
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [0,170,90],
-		"innerColor": [154,123,210],
+		"innerColor": [180,35,180],
 		"uniqueName": "Generic Nation",
 		"cities": ["Mehrabad","Darvashahr","Shirazgan","Zandrud","Khorasanvar","Golbahar","Ardameh","Vardestan","Sefiddasht","Azargan","Namavaran","Rudvareh"],
 	},
