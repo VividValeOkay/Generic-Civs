@@ -14,7 +14,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [28,51,119],
 		"innerColor": [255,255,255],
@@ -35,7 +35,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [255,255,0],
 		"innerColor": [155,155,255],
@@ -56,7 +56,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [155,0,0],
 		"innerColor": [255,255,255],
@@ -77,7 +77,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [155,255,255],
 		"innerColor": [25,164,164],
@@ -91,14 +91,14 @@
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [0,0,155],
 		"innerColor": [255,255,255],
@@ -119,7 +119,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [142,12,12],
 		"innerColor": [123,123,221],
@@ -140,7 +140,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [12,120,120],
 		"innerColor": [123,123,221],
@@ -161,12 +161,117 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [17,223,175],
 		"innerColor": [154,123,210],
 		"uniqueName": "Generic Nation",
 		"cities": ["Jabalora","Jabibi","Jobora","Janibo","Lorakani","Loblara","Jobobo","Jalira","Jona","Jovoblorabanki","Aloriba","Tojova","Kisjo"],
+	},
+	  {
+		"name": "Varnasia",
+		"leaderName": "Leader",
+		"startBias": ["Plains"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,0,0],
+		"innerColor": [80,175,50],
+		"uniqueName": "Generic Nation",
+		"cities": ["Main Varnhi","Karman","Ranavan","Varanpur","Nandipura","Kalseth","Ravapura","Tiravelli","Devanagar","Manjalore","Suryanabad","Chitrali"],
+	},
+		  {
+		"name": "Marivella",
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [120,35,120],
+		"uniqueName": "Generic Nation",
+		"cities": ["Navurea","Lomatia","Tavuka","Koraveti","Marosa","Naluvai","Vuniria","Sauvaka","Tavalevu","Leraki","Nakarua","Velani"],
+	},
+	{
+		"name": "Nordalvia",
+		"leaderName": "Leader",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [120,35,120],
+		"innerColor": [255,255,0],
+		"uniqueName": "Generic Nation",
+		"cities": ["Varngrad","Ljosvik","Torskaard","Eldmere","Havrun","Brimstad","Skeldheim","Frosthavn","Rynsberg","Keldara","Vaarlund","Nyrvik"],
+	},
+		{
+		"name": "Gokharan",
+		"leaderName": "Leader",
+		"startBias": ["Mountain"],
+
+		"declaringWar": "YARR!!!",
+		"attacked": "YARR!!!",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,155,65],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Tserkhong","Drumtse","Pangthar","Lhakmar","Chomdrel","Yultrang","Khorzang","Tendral","Minglha","Rinpolha","Jomkhar","Pelthang"],
+	},
+	{
+		"name": "Wombaroo",
+		"leaderName": "Leader",
+		"startBias": ["Plains"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [155,101,25],
+		"innerColor": [50,50,75],
+		"uniqueName": "Generic Nation",
+		"cities": ["Marindurra","Port Warrunga","Karrinbah","Nullamara","Tallaroo","Burrindal","Warrumbra","Coolamara","Narangup","Mount Yalonga","Wirralin","Jandurra"],
 	},
 // City-States
 	{
@@ -197,9 +302,31 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "Is this what death feels like..?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,0,175],
 		"cities": ["Eikomi"]
+	},
+		{
+		"name": "Emuvia",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Is this what death feels like..?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [60,60,60],
+		"cities": ["Emuvia"]
+	},
+	{
+		"name": "Islavista",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [20,60,170],
+		"cities": ["Islavista"]
 	},
 ]
