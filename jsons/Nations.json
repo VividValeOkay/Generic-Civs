@@ -1,1 +1,203 @@
+{
+		//nations
+		"name": "Ardenia",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
 
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+
+		"outerColor": [28,51,119],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Ardenia","Oreltown","Towner","Daverdell","Frol City","Toriden","Casadale","Valetown","Rolandtown","Huntrell","Hoover","Borell","Nadden","Crosstown","Trotell"],
+	},
+  {
+		"name": "Khalkhan",
+		"leaderName": "Leader",
+		"startBias": ["Desert"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+
+		"outerColor": [255,255,0],
+		"innerColor": [155,155,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Khali","Kamali","Omelik","Gadhi","Komlik","Hadidi","Rhali","Khamlid","Uhndi","Hokam","Khalikid","Khocha","Thakim","Okhaki","Khamlikid","Khud","Khus","Kamadhi"],
+	},
+  {
+		"name": "Te Rongoa",
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+
+		"outerColor": [155,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Te Rongoa","Tangaga","Rogogoa","Mahina","Te Tonga","Teo Rogoa","Ronogoga","Hangoa","Te Ofa","Tomoa","Te Tomoa","Te Moa","Gagoa","Ronahi","Rogoanga"],
+	},
+  {
+		"name": "Solerra",
+		"leaderName": "Leader",
+		"startBias": ["Plains"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+
+		"outerColor": [155,255,255],
+		"innerColor": [25,164,164],
+		"uniqueName": "Generic Nation",
+		"cities": ["Solerra","Oleara","Soloma","Solirro","Sasarro","Casoro","Lerra","Liraro","Solisa","New Solirro","Ososo","Terrisa","Elisro","Salerra","Portso"],
+	},
+  {
+		"name": "Nikolskaya",
+		"leaderName": "Leader",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+
+		"outerColor": [155,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Nikosgra","Rono","Skaya","Saskim","Ninoska","Kayska","Kayaski","Nikolisk","Skamask","Skoli","Ninsk","Noroskad","Noliski","Nikoskad"],
+	},
+  {
+		"name": "Archenland",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+
+		"outerColor": [142,12,12],
+		"innerColor": [123,123,221],
+		"uniqueName": "Generic Nation",
+		"cities": ["Aria","Chen","Coland","Nowey","Way","Acren","Acrolin","Hosland","Besland","Coway","Acret","Fren","Anreco","Laland","Sumrac"],
+	},
+  {
+		"name": "Vinh Noura",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Very well, this shall not be forgotten.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+
+		"outerColor": [142,12,12],
+		"innerColor": [123,123,221],
+		"uniqueName": "Generic Nation",
+		"cities": ["Vihn Nara","Cho Neu","Noura Nai","Dak Nou","Vinri Lan","Chao","Cho Vihn","Neu Vihn","Noro Noura","Nara Nara","Dai Dai","Noura Dai"],
+	},
+  {
+		"name": "Jabalora",
+		"leaderName": "Leader",
+		"startBias": ["Desert"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
+
+		"outerColor": [17,223,175],
+		"innerColor": [154,123,210],
+		"uniqueName": "Generic Nation",
+		"cities": ["Jabalora","Jabibi","Jobora","Janibo","Lorakani","Loblara","Jobobo","Jalira","Jona","Jovoblorabanki","Aloriba","Tojova","Kisjo"],
+	},
+// City-States
+	{
+		"name": "Cedravia",
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,255,60],
+		"cities": ["Cedravia"]
+	},
+	{
+		"name": "Qadiral",
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [175,175,0],
+		"cities": ["Qadiral"]
+	},
+	{
+		"name": "Eikomi",
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,0,175],
+		"cities": ["Eikomi"]
+	},
