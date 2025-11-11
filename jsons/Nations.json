@@ -27,14 +27,14 @@
 		"startBias": ["Desert"],
 
 		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "We will defend our nation at all cost!",
+		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "I offer this, for your consideration.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [255,255,0],
@@ -47,15 +47,15 @@
 		"leaderName": "Leader",
 		"startBias": ["Coast"],
 
-		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
+		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "I offer this, for your consideration.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [155,0,0],
@@ -68,15 +68,15 @@
 		"leaderName": "Leader",
 		"startBias": ["Plains"],
 
-		"declaringWar": "We have no choice, war it must be.",
+		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Is the following trade of interest to you?",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [155,255,255],
@@ -97,7 +97,7 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Is the following trade of interest to you?",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [0,0,155],
@@ -111,8 +111,8 @@
 		"startBias": ["Grassland"],
 
 		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "We will defend our nation at all cost!",
-		"defeated": "We have surrendered... you have defeated us.",
+		"attacked": "We shall never surrender.",
+		"defeated": "The gods have deprived Archenland of their favour. We have been defeated.", 
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
@@ -133,13 +133,13 @@
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
-		"defeated": "Very well, this shall not be forgotten.",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "I offer this, for your consideration.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [12,120,120],
@@ -154,13 +154,13 @@
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "The gods have deprived Jabalora of their favour. We have been defeated.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "I offer this, for your consideration.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [17,223,175],
@@ -174,14 +174,14 @@
 		"startBias": ["Plains"],
 
 		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "We will defend our nation at all cost!",
+		"attacked": "We shall never surrender.",
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Is the following trade of interest to you?",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [0,0,0],
@@ -189,12 +189,12 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Main Varnhi","Karman","Ranavan","Varanpur","Nandipura","Kalseth","Ravapura","Tiravelli","Devanagar","Manjalore","Suryanabad","Chitrali"],
 	},
-		  {
+	{
 		"name": "Marivella",
 		"leaderName": "Leader",
 		"startBias": ["Coast"],
 
-		"declaringWar": "We have no choice, war it must be.",
+		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to our nation, stranger.",
@@ -202,7 +202,7 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Is the following trade of interest to you?",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [255,255,255],
@@ -215,15 +215,15 @@
 		"leaderName": "Leader",
 		"startBias": ["Tundra"],
 
-		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We have surrendered... you have defeated us.",
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [120,35,120],
@@ -238,13 +238,13 @@
 
 		"declaringWar": "YARR!!!",
 		"attacked": "YARR!!!",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [0,155,65],
@@ -257,15 +257,15 @@
 		"leaderName": "Leader",
 		"startBias": ["Plains"],
 
-		"declaringWar": "We have no choice, war it must be.",
+		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "The gods have deprived Wombaroo of their favour. We have been defeated.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Come forth, let's do business.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [155,101,25],
@@ -278,15 +278,15 @@
 		"leaderName": "Leader",
 		"startBias": ["Plains","Desert"],
 
-		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"declaringWar": "You are in my way, you must be destroyed..",
+		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Come forth, let's do business.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [0,190,88],
@@ -299,21 +299,168 @@
 		"leaderName": "Leader",
 		"startBias": ["Forest"],
 
-		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Is the following trade of interest to you?",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,130],
 		"uniqueName": "Generic Nation",
 		"cities": ["Harenburg","Altmarshaven","Keldenstadt","Nordholm","Varnhagen","Barkensfeld","Rosthaven","Grunwaldt","Wesselbruck","Tarnedorf","Lichtenmeer","Elsenheim"],
+	},
+	{
+		"name": "Yorubasia",
+		"leaderName": "Leader",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,170,90],
+		"innerColor": [130,0,130],
+		"uniqueName": "Generic Nation",
+		"cities": ["Yorubasia","Irewole","Adunpe","Temilade","Odogbire","Adewora","Ishokun","Ladogba","Morinsha","Oluwole","Efunre","Kayinjo"],
+	},
+	{
+		"name": "Tachikawa",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [20,90,210],
+		"innerColor": [20,20,20],
+		"uniqueName": "Generic Nation",
+		"cities": ["Midoriyama","Kasumigawa","Aozora-shi","Takashiro","Natsuhara","Hoshinuma","Kurogane-machi","Shiranui","Yukizawa","Hinode-shi","Sakurano","Inamori"],
+	},
+  {
+		"name": "Khorassanavia",
+		"leaderName": "Leader",
+		"startBias": ["Desert"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "The gods have deprived Khorassanavia of their favour. We have been defeated.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,170,90],
+		"innerColor": [154,123,210],
+		"uniqueName": "Generic Nation",
+		"cities": ["Mehrabad","Darvashahr","Shirazgan","Zandrud","Khorasanvar","Golbahar","Ardameh","Vardestan","Sefiddasht","Azargan","Namavaran","Rudvareh"],
+	},
+  {
+		"name": "Antumbi",
+		"leaderName": "Leader",
+		"startBias": ["Jungle"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [12,120,120],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Lukemba","Kintasa","Mbalondo","Ntulani","Makanda","Zinoka","Kalundu","Tumbasa","Lumanda","Ngosani","Bamvoko","Kisenga"],
+	},
+  {
+		"name": "Aqilunaq",
+		"leaderName": "Leader",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,0,155],
+		"innerColor": [12,120,120],
+		"uniqueName": "Generic Nation",
+		"cities": ["Tuklikvik","Nuvunga","Kalliaruq","Qamaniq","Itukvik","Sivuniaq","Panniqtuq","Amaruqvik","Innaqtuq","Qilaluuk","Tasiqlik","Aulattuq"],
+	},
+	{
+		"name": "Selanba",
+		"leaderName": "Leader",
+		"startBias": ["Plains"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,170,90],
+		"innerColor": [155,155,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["KwaMahlori","Botswelo","Mahlengwe","Tsanangwe","Leboga","Modisea","Nkobele","Makolano","Selatla","Bontleng","Kwathandi","Moselane"],
+	},
+	{
+		"name": "Érainn",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [120,35,120],
+		"uniqueName": "Generic Nation",
+		"cities": ["Dunvarra","Ballycorin","Kilnareen","Ardros","Carricklea","Glenmara","Inisbray","Loughvale","Tarmonbane","Druimlara","Ballyrenn","Kilcara"],
 	},
 	
 // City-States
@@ -382,5 +529,93 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,255],
 		"cities": ["Bavarenheim"]
+	},
+	{
+		"name": "Auroralis",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,170,0],
+		"cities": ["Auroralis"]
+	},
+	{
+		"name": "Tijikee",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [100,0,170],
+		"cities": ["Tijikee"]
+	},
+	{
+		"name": "Tianjiao",
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [100,0,170],
+		"cities": ["Tianjiao"]
+	},
+	{
+		"name": "Liansheng-Fenglinar",
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,0,0],
+		"cities": ["Liansheng-Fenglinar"]
+	},
+	{
+		"name": "Troviska",
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [70,70,120],
+		"cities": ["Troviska"]
+	},
+	{
+		"name": "Mystralica",
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210,50,80],
+		"cities": ["Mystralica"]
+	},
+	{
+		"name": "Velandria",
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [210,50,80],
+		"cities": ["Velandria"]
+	},
+	{
+		"name": "Quertonia",
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [80,50,80],
+		"cities": ["Quertonia"]
 	},
 ]
