@@ -1,3 +1,4 @@
+[
 {
 		//nations
 		"name": "Ardenia",
@@ -201,3 +202,4 @@
 		"innerColor": [0,0,175],
 		"cities": ["Eikomi"]
 	},
+]
