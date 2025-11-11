@@ -220,7 +220,7 @@
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to our nation, stranger.",
 
-		"neutralHello": "Welcome.",
+		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
@@ -262,7 +262,7 @@
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to our nation, stranger.",
 
-		"neutralHello": "Welcome.",
+		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
@@ -273,6 +273,49 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Marindurra","Port Warrunga","Karrinbah","Nullamara","Tallaroo","Burrindal","Warrumbra","Coolamara","Narangup","Mount Yalonga","Wirralin","Jandurra"],
 	},
+	{
+		"name": "Tazmira",
+		"leaderName": "Leader",
+		"startBias": ["Plains","Desert"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,190,88],
+		"innerColor": [120,120,15],
+		"uniqueName": "Generic Nation",
+		"cities": ["Altanşehir","Karadün","Seyhazar","Tazkale","Mirapınar","Belhazar","Kavrakli","Zerinkapı","Orundar","Haskendir","Demirpaz","Yalovra"],
+	},
+	{
+		"name": "Barkenstein",
+		"leaderName": "Leader",
+		"startBias": ["Forest"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,130],
+		"uniqueName": "Generic Nation",
+		"cities": ["Harenburg","Altmarshaven","Keldenstadt","Nordholm","Varnhagen","Barkensfeld","Rosthaven","Grunwaldt","Wesselbruck","Tarnedorf","Lichtenmeer","Elsenheim"],
+	},
+	
 // City-States
 	{
 		"name": "Cedravia",
@@ -328,5 +371,16 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [20,60,170],
 		"cities": ["Islavista"]
+	},
+	{
+		"name": "Bavarenheim",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255,255,255],
+		"cities": ["Bavarenheim"]
 	},
 ]
