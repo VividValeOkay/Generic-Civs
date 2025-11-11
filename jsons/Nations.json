@@ -100,7 +100,7 @@
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
 
-		"outerColor": [155,0,0],
+		"outerColor": [0,0,155],
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Nikosgra","Rono","Skaya","Saskim","Ninoska","Kayska","Kayaski","Nikolisk","Skamask","Skoli","Ninsk","Noroskad","Noliski","Nikoskad"],
@@ -142,7 +142,7 @@
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 		"declaringFriendship": "I offer this friendship to you. do you feel te same?",
 
-		"outerColor": [142,12,12],
+		"outerColor": [12,120,120],
 		"innerColor": [123,123,221],
 		"uniqueName": "Generic Nation",
 		"cities": ["Vihn Nara","Cho Neu","Noura Nai","Dak Nou","Vinri Lan","Chao","Cho Vihn","Neu Vihn","Noro Noura","Nara Nara","Dai Dai","Noura Dai"],
