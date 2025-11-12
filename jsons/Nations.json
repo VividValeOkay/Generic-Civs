@@ -479,7 +479,7 @@
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [190,20,20],
-		"innerColor": [20,40,20],
+		"innerColor": [20,120,20],
 		"uniqueName": "Generic Nation",
 		"cities": ["Aurelion","Maravine","Valisca","Corentha","Neravia","Tessara","Roveth","Elastra","Vornel","Lunara","Miralune","Drestan"],
 	},
@@ -542,7 +542,7 @@
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [190,0,0],
-		"innerColor": [0,40,80],
+		"innerColor": [0,40,120],
 		"uniqueName": "Generic Nation",
 		"cities": ["Montreval","Bellecour","Rivonne","Châteaumont","Liseray","Valmeron","Portelac","Saint-Auvier","Trémille","Courdelle","Fontelune","Ardenay"],
 	},
