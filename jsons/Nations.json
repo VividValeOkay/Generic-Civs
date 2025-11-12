@@ -462,6 +462,153 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Dunvarra","Ballycorin","Kilnareen","Ardros","Carricklea","Glenmara","Inisbray","Loughvale","Tarmonbane","Druimlara","Ballyrenn","Kilcara"],
 	},
+	{
+		"name": "Virelia",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [190,20,20],
+		"innerColor": [20,40,20],
+		"uniqueName": "Generic Nation",
+		"cities": ["Aurelion","Maravine","Valisca","Corentha","Neravia","Tessara","Roveth","Elastra","Vornel","Lunara","Miralune","Drestan"],
+	},
+	{
+		"name": "Amaxa",
+		"leaderName": "Leader",
+		"startBias": ["Plains","Jungle"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,0,130],
+		"innerColor": [255,255,0],
+		"uniqueName": "Generic Nation",
+		"cities": ["Tlecoztlan","Ameyalco","Xochimilan","Cuetlachan","Tequilan","Yacatla","Mixcoayan","Chimalpan","Atlixco","Tocihuacan","Quetzalapan","Ometlan"],
+	},
+  {
+		"name": "Huarenzhou",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [120,35,120],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Haicheng","Linzhou","Anping","Jinhe","Qiaonan","Yucheng","Futai","Xuanhai","Ningzhou","Baolin","Huantai","Dongqiu"],
+	},
+  {
+		"name": "Valonne",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "The gods have deprived Valonne of their favour. We have been defeated.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [190,0,0],
+		"innerColor": [0,40,80],
+		"uniqueName": "Generic Nation",
+		"cities": ["Montreval","Bellecour","Rivonne","Châteaumont","Liseray","Valmeron","Portelac","Saint-Auvier","Trémille","Courdelle","Fontelune","Ardenay"],
+	},
+  {
+		"name": "Khazrador",
+		"leaderName": "Leader",
+		"startBias": ["Hill"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [45,45,45],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Durkhadun","Baragthrim","Khorvundal","Thuldarak","Gimrak","Bronzakar","Mardun Keep","Khuldarim","Thrainholt","Dornagath","Grimvold","Kelbarad"],
+	},
+	  {
+		"name": "Auraverde",
+		"leaderName": "Leader",
+		"startBias": ["Jungle"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We shall never surrender.",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [90,90,25],
+		"innerColor": [0,175,120],
+		"uniqueName": "Generic Nation",
+		"cities": ["São Veraldo","Porto Áureo","Vila do Sol","Nova Itapira","Belmonte","Maracuara","Alto Verde","Guaravira","Santa Clarina","Pindorama do Sul","Corumbéa","Tupinara"],
+	},
+	{
+		"name": "Samudraya",
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to our nation, friend.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [190,30,30],
+		"innerColor": [0,65,65],
+		"uniqueName": "Generic Nation",
+		"cities": ["Surakarta","Jayapura","Kalinggora","Wonosari","Bandawangi","Gunungjati","Kartasuma","Tamanjaya","Negarawan","Sukalodra","Airwangi","Kertanusa"],
+	},
 	
 // City-States
 	{
