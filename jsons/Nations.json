@@ -323,7 +323,7 @@
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "We have surrendered... you have defeated us.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Welcome to Yorubasia, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -365,7 +365,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "The gods have deprived Khorassanavia of their favour. We have been defeated.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Welcome to Khorassanavia, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -407,7 +407,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Welcome to Aqilunaq, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -449,7 +449,7 @@
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Welcome to Érainn, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -491,7 +491,7 @@
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Welcome to Amaxa, stranger.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
@@ -533,7 +533,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "The gods have deprived Valonne of their favour. We have been defeated.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Welcome to Valonne, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -575,7 +575,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We shall never surrender.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Welcome to Auraverde, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -608,6 +608,111 @@
 		"innerColor": [0,65,65],
 		"uniqueName": "Generic Nation",
 		"cities": ["Surakarta","Jayapura","Kalinggora","Wonosari","Bandawangi","Gunungjati","Kartasuma","Tamanjaya","Negarawan","Sukalodra","Airwangi","Kertanusa"],
+	},
+	{
+		"name": "Elnovia",
+		"leaderName": "Leader",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "We shall never surrender.",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to Elnovia, friend.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,75,75],
+		"innerColor": [0,120,0],
+		"uniqueName": "Generic Nation",
+		"cities": ["Árvuokta","Jienásuolu","Nuvvávárri","Ráhčajávri","Gaskavuokta","Vuordnágiella","Ássolvággi","Jorruvárri","Luovdesuolu","Biergálokka","Nieidajávri","Oarjavuokta"],
+	},
+  {
+		"name": "Valterrum",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [120,120,48],
+		"innerColor": [20,155,50],
+		"uniqueName": "Generic Nation",
+		"cities": ["Valterra","Aquilum","Portus Aureum","Marentia","Castravium","Lunavora","Corvinum","Ferrentia","Domitara","Florianum","Altavalis","Paxoria"],
+	},
+  {
+		"name": "Belovodra",
+		"leaderName": "Leader",
+		"startBias": ["Tundra","Forest"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "Welcome to Belovodra, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [210,210,210],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Krasnovar","Velichinsk","Ostrelovo","Novyabrsk","Tserelinsk","Morodino","Zimograd","Yaroslavka","Darnevsk","Sokolovo","Petrovyansk","Ruzhinskoye"],
+	},
+	{
+		"name": "Kāholaloa",
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [90,120,90],
+		"innerColor": [101,75,120],
+		"uniqueName": "Generic Nation",
+		"cities": ["Hālepono","Kailuahe","Mānoalani","Pāhulea","Loko‘eka","Hōkūmali","Kawelani","Nāpuea","Lanikūloa","Wai‘ene","Keonehā","Mākilua"],
+	},
+	{
+		"name": "Franklandia",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [120,35,120],
+		"innerColor": [255,255,0],
+		"uniqueName": "Generic Nation",
+		"cities": ["Riverton","Cedar Falls","Maple Ridge","Silverton","Ashbury","Pinecrest","Lakeshore City","Hawthorne Springs","Westfield","Oakburg","Red Mesa","New Brighton"],
 	},
 	
 // City-States
