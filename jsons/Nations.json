@@ -714,6 +714,132 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Riverton","Cedar Falls","Maple Ridge","Silverton","Ashbury","Pinecrest","Lakeshore City","Hawthorne Springs","Westfield","Oakburg","Red Mesa","New Brighton"],
 	},
+	{
+		"name": "Greg's Empire",
+		"leaderName": "Leader",
+		"startBias": ["Plains"],
+
+		"declaringWar": "PREPARE TO DIE! HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHHA!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Screw this...",
+		"introduction": "Welcome to our nation, loser.",
+
+		"neutralHello": "Huh? What's up..?",
+		"hateHello": "Piss off, dude >:(",
+
+		"tradeRequest": "Just get this trade over with...",
+		"declaringFriendship": "Hey bro, lets team up.",
+
+		"outerColor": [232,31,0],
+		"innerColor": [84,11,0],
+		"uniqueName": "Generic Nation",
+		"cities": ["Greg's Domain","Greg's Favourate City","The Beach","The one place with the cool hill thingy","Me Casa","Gobodogo","Stilts","Greg's Chill Spot","Just in case","The Smile Town","Wheel","River side","Greg's Bay"],
+	},
+  {
+		"name": "Rosina",
+		"leaderName": "Leader",
+		"startBias": ["Hill"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [112,181,69],
+		"innerColor": [60,97,37],
+		"uniqueName": "Generic Nation",
+		"cities": ["Rosina","Trofina","Trogie","Utavae","Rasan","Tuvfosca","Gretsca","Novosilgie","Rascalina","Trogosan","Gregwood","Yugoslalina","Tratu","Novovae","Tesca","Utarae"],
+	},
+  {
+		"name": "Morilands",
+		"leaderName": "Leader",
+		"startBias": ["Plains"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to the Morilands, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [14,37,97],
+		"innerColor": [255,206,49],
+		"uniqueName": "Generic Nation",
+		"cities": ["Tserenkhot","Batuunuur","Kharadalai","Orongol","Moribaatar","Sükhsum","Ulaanserik","Delgerkhaan","Altangol","Noyankhot","Erdenetai","Khökhbayan"],
+	},
+	{
+		"name": "Miang",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [81,120,156],
+		"innerColor": [248,202,86],
+		"uniqueName": "Generic Nation",
+		"cities": ["Kaum Pheng","Nkao Lis","Maivteb","Tsa Neeb","Va Hluas","Nruab Tsheej","Hli Dawb","Paj Nyab","Lauj Xauv","Ntaub Hmoob","Khawv Txim","Tsov Toj"],
+	},
+	{
+		"name": "Aniyvwi",
+		"leaderName": "Leader",
+		"startBias": ["Plains","Hill"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "Welcome to Aniyvwi, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [1,42,108],
+		"innerColor": [97,191,34],
+		"uniqueName": "Generic Nation",
+		"cities": ["Taligwa","Nvwotiyi","Galitska","Ulansa","Wasiqua","Daneli","Ostona","Selugi","Yanosa","Kawonu","Tsolaqua","Aniyodi"],
+	},
+  {
+		"name": "Raider Republic",
+		"leaderName": "Leader",
+		"startBias": ["Desert","Plains"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "The gods have deprived the Raider Republic of their favour. We have been defeated.",
+		"introduction": "Welcome to Raider Republic, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [116,67,5],
+		"innerColor": [219,219,126],
+		"uniqueName": "Generic Nation",
+		"cities": ["Ironwatch","Redhaven","Stormgate City","Black Mesa Ridge","Falconpoint","Raiders’ Rest","Steelwater","Gunrock Falls","Ashford Frontier","Thunder Pass","Hellion Bluff","Coppertrail"],
+	},
 	
 // City-States
 	{
