@@ -840,6 +840,153 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Ironwatch","Redhaven","Stormgate City","Black Mesa Ridge","Falconpoint","Raiders’ Rest","Steelwater","Gunrock Falls","Ashford Frontier","Thunder Pass","Hellion Bluff","Coppertrail"],
 	},
+	{
+		"name": "Itavi-Morisis",
+		"leaderName": "Leader",
+		"startBias": ["Desert"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to Itavi, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [42,140,108],
+		"innerColor": [227,227,136],
+		"uniqueName": "Generic Nation",
+		"cities": ["Miaga","Fomist","Dannitch","Fogomoth","Hatma","Etagi","Kolisha","Darnive","Horoga","Harnitch","Vorny","Gagahg"],
+	},
+	{
+		"name": "Antanimbary",
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [8,92,19],
+		"innerColor": [20,224,180],
+		"uniqueName": "Generic Nation",
+		"cities": ["Antanimbary","Moralahy","Ranofitina","Mahavelona","Ambodinoro","Vatomandrya","Ankazaribe","Tsimialona","Sahandria","Befarantsa","Miandamaka","Anjavidoro"],
+	},
+  {
+		"name": "Moravskova",
+		"leaderName": "Leader",
+		"startBias": ["Forest"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We shall never surrender.",
+		"defeated": "We have surrendered... you have defeated us.", 
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [255,129,18],
+		"innerColor": [21,108,48],
+		"uniqueName": "Generic Nation",
+		"cities": ["Velkovice","Drahovany","Kravínská","Lestoměř","Bradlín","Mirovská","Zelenov","Třebavice","Kostelec nad Oravou","Rohličany","Březnice Horni","Svitomír"],
+	},
+	  {
+		"name": "Mythralis",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We shall never surrender.",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to Mythralis, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,192,155],
+		"innerColor": [125,236,227],
+		"uniqueName": "Generic Nation",
+		"cities": ["Thermakopoli","Aigoría","Kalythos","Mystrakia","Pelekrini","Dionaste","Korinthyra","Néa Thalassa","Lykopetra","Argyronisi","Kastridi","Evanthira"],
+	},
+  {
+		"name": "Rozovali",
+		"leaderName": "Leader",
+		"startBias": ["Forest"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "War? We shall crush you!",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are no worse fates.",
+		"introduction": "Welcome to Rozovali, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [116,163,243],
+		"innerColor": [202,20,21],
+		"uniqueName": "Generic Nation",
+		"cities": ["Varinovac","Srednje Polje","Kraljevgrad","Dobrelje","Lučanik","Mariborje","Dravica","Petrovska Luka","Ružinovac","Belobor","Kamenik","Jadrinje"],
+	},
+	{
+		"name": "Zarqanistan",
+		"leaderName": "Leader",
+		"startBias": ["Desert","Hill"],
+
+		"declaringWar": "You are in my way, you must be destroyed.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "The Allah has deprived Zarqanistan of their favour. We have been defeated.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Come forth, let's do business.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [249,249,249],
+		"innerColor": [134,114,2],
+		"uniqueName": "Generic Nation",
+		"cities": ["Darwakhel","Mirzaghai","Khandar Kot","Shenwargar","Tora Qandai","Zalmabad","Roshankhel","Barkhanzai","Sardakh Kot","Luwarghar","Pazirai","Nawshagai"],
+	},
+	{
+		"name": "Kiwiara",
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [125,236,227],
+		"innerColor": [202,20,21],
+		"uniqueName": "Generic Nation",
+		"cities": ["Te Rangiwhare","Waihurangi","Manukōtare","Arohanui","Rotopeka","Paewhenua","Hikuroa","Onepukera","Te Mārewa","Whakaruru","Maungatapu","Kōhimārama"],
+	},
 	
 // City-States
 	{
@@ -995,5 +1142,49 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [80,50,80],
 		"cities": ["Quertonia"]
+	},
+	{
+		"name": "Zelenorad",
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [229,117,116],
+		"cities": ["Zelenorad"]
+	},
+	{
+		"name": "Sávoročko",
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [120,61,2],
+		"cities": ["Sávoročko"]
+	},
+	{
+		"name": "Quoterra",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [116,163,243],
+		"cities": ["Quoterra"]
+	},
+	{
+		"name": "Malric",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [117,0,115],
+		"cities": ["Malric"]
 	},
 ]
