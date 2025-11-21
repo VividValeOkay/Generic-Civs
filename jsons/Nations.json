@@ -468,7 +468,7 @@
 		"startBias": ["Grassland"],
 
 		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
-		"attacked": "We will defend our nation at all cost!",
+		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to our nation, stranger.",
 
@@ -488,7 +488,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Plains","Jungle"],
 
-		"declaringWar": "You're disturbing us, prepare for war.",
+		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
 		"introduction": "Welcome to Amaxa, stranger.",
@@ -530,7 +530,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Grassland"],
 
-		"declaringWar": "We have no choice, war it must be.",
+		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "The gods have deprived Valonne of their favour. We have been defeated.",
 		"introduction": "Welcome to Valonne, stranger.",
@@ -551,7 +551,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Hill"],
 
-		"declaringWar": "We have no choice, war it must be.",
+		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
 		"introduction": "Welcome to our nation, stranger.",
@@ -572,8 +572,8 @@
 		"leaderName": "Leader",
 		"startBias": ["Jungle"],
 
-		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "We shall never surrender.",
+		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
+		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to Auraverde, stranger.",
 
@@ -615,14 +615,14 @@
 		"startBias": ["Tundra"],
 
 		"declaringWar": "You're disturbing us, prepare for war.",
-		"attacked": "We shall never surrender.",
+		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to Elnovia, friend.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "Is the following trade of interest to you?",
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [0,75,75],
@@ -635,7 +635,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Grassland"],
 
-		"declaringWar": "We have no choice, war it must be.",
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
 		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to our nation, stranger.",
@@ -685,7 +685,7 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "Is the following trade of interest to you?",
+		"tradeRequest": "I believe I have something that may be of some importance to you.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [90,120,90],
@@ -700,13 +700,13 @@
 
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"defeated": "My people will mourn me not with tears, but with human blood.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [120,35,120],
@@ -748,8 +748,8 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "I offer this, for your consideration.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"tradeRequest": "I believe I have something that may be of some importance to you.",
+		"declaringFriendship": "I believe I have something that may be of some importance to you.",
 
 		"outerColor": [112,181,69],
 		"innerColor": [60,97,37],
@@ -761,16 +761,16 @@
 		"leaderName": "Leader",
 		"startBias": ["Plains"],
 
-		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "We will defend our nation at all cost!",
-		"defeated": "Is this what death feels like..?",
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+		"attacked": "Fate is against you. You earned the animosity of the Morilands in your exploration. Your days are numbered.",
+		"defeated": "My people will mourn me not with tears, but with human blood.",
 		"introduction": "Welcome to the Morilands, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "Is the following trade of interest to you?",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
+		"declaringFriendship": "Let us join our forces together and reap the rewards.",
 
 		"outerColor": [14,37,97],
 		"innerColor": [255,206,49],
@@ -784,13 +784,13 @@
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "My people will mourn me not with tears, but with human blood.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [81,120,156],
@@ -804,8 +804,8 @@
 		"startBias": ["Plains","Hill"],
 
 		"declaringWar": "You're disturbing us, prepare for war.",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
 		"introduction": "Welcome to Aniyvwi, stranger.",
 
 		"neutralHello": "Hello.",
@@ -824,7 +824,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Desert","Plains"],
 
-		"declaringWar": "We have no choice, war it must be.",
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "The gods have deprived the Raider Republic of their favour. We have been defeated.",
 		"introduction": "Welcome to Raider Republic, stranger.",
@@ -845,9 +845,9 @@
 		"leaderName": "Leader",
 		"startBias": ["Desert"],
 
-		"declaringWar": "You're disturbing us, prepare for war.",
-		"attacked": "We will defend our nation at all cost!",
-		"defeated": "Is this what death feels like..?",
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
 		"introduction": "Welcome to Itavi, stranger.",
 
 		"neutralHello": "Welcome.",
@@ -866,9 +866,9 @@
 		"leaderName": "Leader",
 		"startBias": ["Coast"],
 
-		"declaringWar": "You're disturbing us, prepare for war.",
+		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
 		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
@@ -888,8 +888,8 @@
 		"startBias": ["Forest"],
 
 		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "We shall never surrender.",
-		"defeated": "We have surrendered... you have defeated us.", 
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.", 
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
@@ -909,7 +909,7 @@
 		"startBias": ["Grassland"],
 
 		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "We shall never surrender.",
+		"attacked": "Fate is against you. You earned the animosity of Mythralis in your exploration. Your days are numbered.",
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to Mythralis, stranger.",
 
@@ -950,16 +950,16 @@
 		"leaderName": "Leader",
 		"startBias": ["Desert","Hill"],
 
-		"declaringWar": "You are in my way, you must be destroyed.",
+		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "The Allah has deprived Zarqanistan of their favour. We have been defeated.",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Come forth, let's do business.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "I believe I have something that may be of some importance to you.",
 
 		"outerColor": [249,249,249],
 		"innerColor": [134,114,2],
@@ -971,15 +971,15 @@
 		"leaderName": "Leader",
 		"startBias": ["Coast"],
 
-		"declaringWar": "You're disturbing us, prepare for war.",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "We have surrendered... you have defeated us.",
+		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
+		"attacked": "Fate is against you. You earned the animosity of Kiwiara in your exploration. Your days are numbered.",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "Is the following trade of interest to you?",
+		"tradeRequest": "I believe I have something that may be of some importance to you.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [125,236,227],
@@ -1186,5 +1186,27 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [117,0,115],
 		"cities": ["Malric"]
+	},
+	{
+		"name": "Polina",
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [40,255,255],
+		"cities": ["Polina"]
+	},
+	{
+		"name": "Hajahaja",
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [125,236,227],
+		"cities": ["Hajahaja"]
 	},
 ]
