@@ -987,6 +987,90 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Te Rangiwhare","Waihurangi","Manukōtare","Arohanui","Rotopeka","Paewhenua","Hikuroa","Onepukera","Te Mārewa","Whakaruru","Maungatapu","Kōhimārama"],
 	},
+  {
+		"name": "Marabunta",
+		"leaderName": "Leader",
+		"startBias": ["Plains"],
+
+		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "The gods have deprived Marabunta of their favour. We have been defeated.",
+		"introduction": "Welcome to Marabunta, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [255,223,107],
+		"innerColor": [115,82,235],
+		"uniqueName": "Generic Nation",
+		"cities": ["Mabiratswe","Tawerugwe","Sebapula","Makundatshi","Ramatungwa","Gorometsa","Tshepabira","Nyarokhama","Motsiwara","Chawengwe","Morudziwa","Kanyetsana"],
+	},
+	{
+		"name": "Kelzouria",
+		"leaderName": "Leader",
+		"startBias": ["Desert"],
+
+		"declaringWar": "This is war. Be prepared.",
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
+		"introduction": "Welcome to Kelzouria, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [87,233,108],
+		"innerColor": [69,114,48],
+		"uniqueName": "Generic Nation",
+		"cities": ["Tizi n’Marran","Aït Ilemhan","Agadir Tazlout","Imidir Ouzram","Timgharin","Azrou n’Khelwan","Tamalout Igrane","Ifrane Tazir","Taghoula n’Serwan","Amskour Ouhem","Tamzilt Afraw","Ighrem Taslout"],
+	},
+	{
+		"name": "Lopinto",
+		"leaderName": "Catalìa Almaro",
+		"startBias": ["Hill","Coast"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Bongiorna, cumpà!",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [255,127,0],
+		"innerColor": [30,71,133],
+		"uniqueName": "Generic Nation",
+		"cities": ["Serra Catalìa","Marafusca","Rivellona","Poggio Lintari","Calasciura","Fontanuzzo","Valmérica","Granitello","Porta Vizziri","Montedusa","Serra Catalìa","Torre Almaro"],
+	},
+  {
+		"name": "Dai Phonggia",
+		"leaderName": "Leader",
+		"startBias": ["Jungle","Coast"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "My fall... was inevitable...", 
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [255,152,0],
+		"innerColor": [44,120,101],
+		"uniqueName": "Generic Nation",
+		"cities": ["Phố Thanh Giang","Hải Phong Linh","Bình Trúc Sơn","Ngọc An Thủy","Long Khánh Đạo","Thành Phượng Lâm","Tân Hòa Phúc","Thủy Minh Châu","Vạn Liên Khê","Phú Hải Đường","Sơn Vũ Thành","Lạc Thiên Giáp"],
+	},
 	
 // City-States
 	{
