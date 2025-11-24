@@ -1036,7 +1036,7 @@
 
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "Though we fall, our spirit remains unbroken. History will remember Lopinto.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Bongiorna, cumpà!",
@@ -1078,7 +1078,7 @@
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "War? We shall crush you!",
-		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are no worse fates.",
+		"defeated": "Though we fall, our spirit remains unbroken. History will remember Alqarisa.",
 		"introduction": "Welcome to Alqarisa, stranger.",
 
 		"neutralHello": "Welcome.",
@@ -1098,7 +1098,7 @@
 		"startBias": ["Grassland"],
 
 		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
-		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"attacked": "Your treachery is noted. We shall remember this.",
 		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
 		"introduction": "Welcome to Hochbayernmark, stranger.",
 
@@ -1161,7 +1161,7 @@
 		"startBias": ["Mountain"],
 
 		"declaringWar": "You're disturbing us, prepare for war.",
-		"attacked": "Oh well, I presume you know what you're doing.",
+		"attacked": "Your treachery is noted. We shall remember this.",
 		"defeated": "My people will mourn me not with tears, but with human blood.",
 		"introduction": "Welcome to our nation, stranger.",
 
@@ -1223,7 +1223,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Grassland"],
 
-		"declaringWar": "We have no choice, war it must be.",
+		"declaringWar": "Your actions leave us no choice but to respond with force. War is inevitable.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to our nation, stranger.",
@@ -1238,6 +1238,90 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "Generic Nation",
 		"cities": ["Novohradnytsi","Zelenivka","Berezodar","Kryvostav","Duborych","Snihursk","Tsvitopil","Radaniv","Vyshnorytsk","Olenivtsi","Solotaria","Chorneluh"],
+	},
+	{
+		"name": "Mawala",
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [70,83,150],
+		"innerColor": [184,175,118],
+		"uniqueName": "Generic Nation",
+		"cities": ["Mji wa Kizimba","Pwani Mrembo","Kisiwa cha Lengo","Mto Wajani","Bahari Kuu","Upepo Mwanga","Mlimani Sefu","Bandari Lamuzi","Kijiji cha Mchanga","Mwembe Safiri","Kongozi Mvua","Darajani Mpya"],
+	},
+	{
+		"name": "Nerav",
+		"leaderName": "Leader",
+		"startBias": ["Coast","Desert"],
+
+		"declaringWar": "Your actions leave us no choice but to respond with force. War is inevitable.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [68,33,78],
+		"innerColor": [190,146,61],
+		"uniqueName": "Generic Nation",
+		"cities": ["Ramah","Telon","Kiryat Or","Naveh","Tzofar","Galit","Shefa","Dorim","Yonat","Barak","Maor","Eran"],
+	},
+	{
+		"name": "Samaraine",
+		"leaderName": "Leader",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "Our patience has ended. Prepare yourself, for the might of Samaraine will not be denied!",
+		"attacked": "So it begins… You have chosen the path of blood. We will not falter!",
+		"defeated": "The gods have favored you this day... Our people shall rise again.",
+		"introduction": "Greetings, traveler. I am Leader of Samaraine. May our paths be prosperous… or, if need be, decisive.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [228,111,87],
+		"innerColor": [38,41,80],
+		"uniqueName": "Fully ChatGPT Nation",
+		"cities": ["Florindale","Marivessa","Linibaria","Estorina","Valerona","Miravelle","Korinthia","Selvarin","Talinora","Aveloria","Dravencia","Lumeriana"],
+	},
+	{
+		"name": "Drovanka",
+		"leaderName": "Leader",
+		"startBias": ["Forest"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Though we fall, our spirit remains unbroken. History will remember Drovanka.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Hello!",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [8,0,54],
+		"innerColor": [228,134,228],
+		"uniqueName": "Generic Nation",
+		"cities": ["Brzostow","Laskovia","Wierzbica","Tarnowek","Klemirza","Ostrowin","Zalesnik","Dobravia","Milowice","Radzimir","Nowogrod","Lubienka"],
 	},
 	
 // City-States
@@ -1460,5 +1544,104 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [125,236,227],
 		"cities": ["Hajahaja"]
+	},
+	{
+		"name": "Lochira",
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [4,70,176],
+		"cities": ["Lochira City"]
+	},
+	{
+		"name": "Tinland",
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [86,199,91],
+		"cities": ["Tinland"]
+	},
+	{
+		"name": "Aswigro",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [107,171,10],
+		"cities": ["Aswigro"]
+	},
+	{
+		"name": "Haymae",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247,148,35],
+		"cities": ["Haymae"]
+	},
+	{
+		"name": "Aquila",
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [60,128,121],
+		"cities": ["Aquila"]
+	},
+	{
+		"name": "Yugonix",
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [250,17,145],
+		"cities": ["Yugonix"]
+	},
+	{
+		"name": "Nachoun",
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [176,116,149],
+		"cities": ["Nachoun"]
+	},
+	{
+		"name": "Kilnirantounimpo",
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,255,0],
+		"cities": ["Kilnirantounimpo"]
+	},
+	{
+		"name": "Anbirn",
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [219,216,9],
+		"cities": ["Anbirn"]
 	},
 ]
