@@ -1218,6 +1218,27 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Luntian Bayan","Maynilawao","Silangang Dalampasigan","Bagong Ilog","Talabukid","Kanlungang Bato","Liyab-Sapa","Amihan Baybayin","Dawag-Kawayan","Gintong Saklaw","Masunurin Pulo","Bantay-Himataas"],
 	},
+    {
+		"name": "Zoryava",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [247,216,1],
+		"innerColor": [0,0,0],
+		"uniqueName": "Generic Nation",
+		"cities": ["Novohradnytsi","Zelenivka","Berezodar","Kryvostav","Duborych","Snihursk","Tsvitopil","Radaniv","Vyshnorytsk","Olenivtsi","Solotaria","Chorneluh"],
+	},
 	
 // City-States
 	{
