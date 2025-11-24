@@ -1071,6 +1071,153 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Phố Thanh Giang","Hải Phong Linh","Bình Trúc Sơn","Ngọc An Thủy","Long Khánh Đạo","Thành Phượng Lâm","Tân Hòa Phúc","Thủy Minh Châu","Vạn Liên Khê","Phú Hải Đường","Sơn Vũ Thành","Lạc Thiên Giáp"],
 	},
+  {
+		"name": "Alqarisa",
+		"leaderName": "Leader",
+		"startBias": ["Desert"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "War? We shall crush you!",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are no worse fates.",
+		"introduction": "Welcome to Alqarisa, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [29,83,63],
+		"innerColor": [213,9,49],
+		"uniqueName": "Generic Nation",
+		"cities": ["Mahdat al-Nur","Qasr al-Bahrin","Arwaha","Zaharat al-Qamar","Ruwala","Fayruzat","Nakhla al-Sharq","Sab’atayn","Qal’at Rasim","Tamaris","Hafr al-Majid","Birqat al-Sahra"],
+	},
+	{
+		"name": "Hochbayernmark",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
+		"introduction": "Welcome to Hochbayernmark, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [23,16,9],
+		"innerColor": [249,200,86],
+		"uniqueName": "Generic Nation",
+		"cities": ["Grünthal am See","Bergstadt Hollenfels","Altweiden","Steinbruck","Südlingen","Oberklausen","Falkenried","Münterdorf","Hirschwalden","Kelzheim","Traunfeld","Rosenbruck"],
+	},
+  {
+		"name": "Helveria",
+		"leaderName": "Leader",
+		"startBias": ["Hill"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [51,51,51],
+		"innerColor": [247,216,1],
+		"uniqueName": "Generic Nation",
+		"cities": ["Sankt Uldren","Brünnwald","Vattersee","Kürzhofen","Alpenbruck","Dornlützel","Ober Zelmatt","Wenderspitz","Nidertal","Falkenried","Schattenroth","Rüschensberg"],
+	},
+	  {
+		"name": "The Pirate Alliance",
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
+		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to The Pirate Alliance, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [51,51,51],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Skullport Haven","Rumreef Bay","Cutlass Cove","Deadwake Harbor","Bloodtide Anchorage","Gunner’s Gallows","Plankbreak Point","Corsair’s Rest","Saltfang Shoals","Marauder’s Wharf","Shantyspire Isle","Blackfin Bluff"],
+	},
+	{
+		"name": "Tawantika",
+		"leaderName": "Leader",
+		"startBias": ["Mountain"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "My people will mourn me not with tears, but with human blood.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [134,114,2],
+		"innerColor": [247,216,1],
+		"uniqueName": "Generic Nation",
+		"cities": ["Qhapaqpampa","Inti Markana","Suyupallqa","Chaskaqutu","Ayllu Wanin","Killaq’iru","Pumaqanchi","Wiraqocha Llacta","Qoriwantu","Saqsaymana","Pachakilla","Yakuqosqo"],
+	},
+  {
+		"name": "Northlake",
+		"leaderName": "Leader",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to Northlake, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [116,163,243],
+		"innerColor": [1,42,108],
+		"uniqueName": "Generic Nation",
+		"cities": ["Maple Ridge Heights","Silverpine","Cedarbrook","Westshore Crossing","Prairieview","Northhaven Bay","Goldenfield","Lakeshore","Redstone Harbour","Glacierline","Rivermount","Snowcrest"],
+	},
+	  {
+		"name": "Makahara",
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Fate is against you. You earned the animosity of Makahara in your exploration. Your days are numbered.",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to Makahara, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [83,83,83],
+		"innerColor": [255,178,60],
+		"uniqueName": "Generic Nation",
+		"cities": ["Luntian Bayan","Maynilawao","Silangang Dalampasigan","Bagong Ilog","Talabukid","Kanlungang Bato","Liyab-Sapa","Amihan Baybayin","Dawag-Kawayan","Gintong Saklaw","Masunurin Pulo","Bantay-Himataas"],
+	},
 	
 // City-States
 	{
