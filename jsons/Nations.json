@@ -646,8 +646,8 @@
 		"tradeRequest": "I offer this, for your consideration.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
-		"outerColor": [120,120,48],
-		"innerColor": [20,155,50],
+		"outerColor": [51,28,63],
+		"innerColor": [235,226,79],
 		"uniqueName": "Generic Nation",
 		"cities": ["Valterra","Aquilum","Portus Aureum","Marentia","Castravium","Lunavora","Corvinum","Ferrentia","Domitara","Florianum","Altavalis","Paxoria"],
 	},
@@ -1322,6 +1322,69 @@
 		"innerColor": [228,134,228],
 		"uniqueName": "Generic Nation",
 		"cities": ["Brzostow","Laskovia","Wierzbica","Tarnowek","Klemirza","Ostrowin","Zalesnik","Dobravia","Milowice","Radzimir","Nowogrod","Lubienka"],
+	},
+	{
+		"name": "Gadwall",
+		"leaderName": "Leader",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Come forth, let's do business.",
+		"declaringFriendship": "I believe I have something that may be of some importance to you.",
+
+		"outerColor": [8,193,111],
+		"innerColor": [7,110,64],
+		"uniqueName": "Generic Nation",
+		"cities": ["Gadwall","Jonira","Platz","Damien","Folirin Pols","Aufgidam","Nuruck","Sink","Pols Onlino","Exavar","Gavon","Benhiman","Joshnon"],
+	},
+  {
+		"name": "Hualin",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.", 
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [186,186,160],
+		"innerColor": [28,76,107],
+		"uniqueName": "Generic Nation",
+		"cities": ["Longzhou","Meilinshan","Huacheng","Yunxiang","Zhanyuan","Fuyingzhen","Qianzhou","Lianrong","Xiangtai","Shenlinfu","Baoxiang","Hanpingdu"],
+	},
+  {
+		"name": "Tseraveli",
+		"leaderName": "Leader",
+		"startBias": ["Hill"],
+
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [9,112,84],
+		"uniqueName": "Generic Nation",
+		"cities": ["Kavreliani","Tamarasheni","Mtskavara","Zurenidze","Ralishvili","Dargomari","Lekhinavi","Tserkaveti","Bashuriani","Gorinelda","Velashuri","Antriketi"],
 	},
 	
 // City-States
