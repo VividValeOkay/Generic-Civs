@@ -1366,8 +1366,8 @@
 		"cities": ["Longzhou","Meilinshan","Huacheng","Yunxiang","Zhanyuan","Fuyingzhen","Qianzhou","Lianrong","Xiangtai","Shenlinfu","Baoxiang","Hanpingdu"],
 	},
   {
-		"name": "Tseraveli",
-		"leaderName": "Leader",
+		"name": "Tseraveli",  // Georgian style
+		"leaderName": "Simone Pillai",
 		"startBias": ["Hill"],
 
 		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
@@ -1385,6 +1385,109 @@
 		"innerColor": [9,112,84],
 		"uniqueName": "Generic Nation",
 		"cities": ["Kavreliani","Tamarasheni","Mtskavara","Zurenidze","Ralishvili","Dargomari","Lekhinavi","Tserkaveti","Bashuriani","Gorinelda","Velashuri","Antriketi"],
+	},
+	  {
+		"name": "Calderain",  // Scottish style
+		"leaderName": "Ryan Hunziker",
+		"startBias": ["Hill"],
+
+		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
+		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to Calderain, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [21,36,237],
+		"innerColor": [8,15,105],
+		"uniqueName": "Generic Nation",
+		"cities": ["Lochvarren","Bracemuir","Cairndale","Inverlaith","Dunmora","Kelbray","Morashire","Farlanbrae","Glenvaroch","Strathallen","Crailmore","Tarvannoch"],
+	},
+	{
+		"name": "Haneora",  // Korean style
+		"leaderName": "Leader",
+
+		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [127,235,235],
+		"innerColor": [65,122,122],
+		"uniqueName": "Generic Nation",
+		"cities": ["Gyeonghwasan","Miranpo","Haneungcheon","Sorinjang","Daemuri-si","Jinhwajeong","Okcheonrim","Namsuhwa","Yeorinbuk","Dalhae-won","Hwarangjin","Boseongdae"],
+	},
+  {
+		"name": "Amlida", // Ewe language style
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [232,161,7],
+		"innerColor": [115,80,7],
+		"uniqueName": "Generic Nation",
+		"cities": ["Togbavi","Selamede","Kponakodo","Avetawui","Nukpodome","Hedzranfi","Awunikpe","Lomadofi","Senakpeme","Wodomeka","Dzetakoli","Mawulime"],
+	},
+	{
+		"name": "Brunhafen",  // Hunsrik language style
+		"leaderName": "Hugo Schmidt",
+
+		"declaringWar": "Wën ich eerlich sin, tuun ich mich mit tëne sintlose xarade khimere. Warom tuun mer net unser xwiirichkheete uf em kriichs plats resolwiire, wii ti woere mëner? Fiilaycht tuun ti respëktierte poëte fon tayne koraaj singe... ore fon mayne!",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Hayt khomt en kroos xreklich phayn. Mit tich khomt te weech tsum xwartse xtorem.",
+		"introduction": "Welcome to our nation, frëmte.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Come forth, let's do business.",
+		"declaringFriendship": "I believe I have something that may be of some importance to you.",
+
+		"outerColor": [75,245,49],
+		"innerColor": [30,97,19],
+		"uniqueName": "Generic Nation",
+		"cities": ["Brunhafen","Lindenfeldia","Rosenbachtal","Dreimundorf","Krausenberg","Waldhinteren","Blumenriedau","Neuschlattin","Falkenriva","Bergwiesental","Sonnenheimau","Kleindorfhausen"],
+	},
+  {
+		"name": "Kalombira",
+		"leaderName": "Leader",
+		"startBias": ["Plains"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to Kalombira, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [217,222,75],
+		"innerColor": [141,141,100],
+		"uniqueName": "Generic Nation",
+		"cities": ["Malanjeiro","Kisombala","Lubangola","Ndongamira","Tombarico","Kavindulo","Muxilanga","Lobarique","Bengoasso","Kualimena","Sambandira","Ondaviro"],
 	},
 	
 // City-States
@@ -1706,5 +1809,38 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [219,216,9],
 		"cities": ["Anbirn"]
+	},
+	{
+		"name": "Caperon City",
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [5,240,9],
+		"cities": ["Caperon City"]
+	},
+	{
+		"name": "Fugo-Fugo",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [179,80,151],
+		"cities": ["Fugo-Fugo"]
+	},
+	{
+		"name": "Amoria",
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [21,36,237],
+		"cities": ["Amoria"]
 	},
 ]
