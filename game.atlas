@@ -1,0 +1,503 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Alqarisa
+  rotate: false
+  xy: 4, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Amaxa
+  rotate: false
+  xy: 4, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Amlida
+  rotate: false
+  xy: 140, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Aniyvwi
+  rotate: false
+  xy: 4, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Antanimbary
+  rotate: false
+  xy: 140, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Antumbi
+  rotate: false
+  xy: 276, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Aqilunaq
+  rotate: false
+  xy: 4, 412
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Archenland
+  rotate: false
+  xy: 140, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Ardenia
+  rotate: false
+  xy: 276, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Auraverde
+  rotate: false
+  xy: 412, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Barkenstein
+  rotate: false
+  xy: 4, 276
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Belovodra
+  rotate: false
+  xy: 140, 412
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Brunhafen
+  rotate: false
+  xy: 276, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Calderain
+  rotate: false
+  xy: 412, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Dai Phonggia
+  rotate: false
+  xy: 548, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Drovanka
+  rotate: false
+  xy: 4, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Elnovia
+  rotate: false
+  xy: 140, 276
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Franklandia
+  rotate: false
+  xy: 276, 412
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Gadwall
+  rotate: false
+  xy: 412, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Gokharan
+  rotate: false
+  xy: 548, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Greg's Empire
+  rotate: false
+  xy: 684, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Haneora
+  rotate: false
+  xy: 4, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Helveria
+  rotate: false
+  xy: 140, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Hochbayernmark
+  rotate: false
+  xy: 276, 276
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Hualin
+  rotate: false
+  xy: 412, 412
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Huarenzhou
+  rotate: false
+  xy: 548, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Itavi-Morisis
+  rotate: false
+  xy: 684, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Jabalora
+  rotate: false
+  xy: 820, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Kalombira
+  rotate: false
+  xy: 140, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Kelzouria
+  rotate: false
+  xy: 276, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Khalkhan
+  rotate: false
+  xy: 412, 276
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Khazrador
+  rotate: false
+  xy: 548, 412
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Khorassanavia
+  rotate: false
+  xy: 684, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Kiwiara
+  rotate: false
+  xy: 820, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Kāholaloa
+  rotate: false
+  xy: 956, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Lopinto
+  rotate: false
+  xy: 276, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Makahara
+  rotate: false
+  xy: 412, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Marabunta
+  rotate: false
+  xy: 548, 276
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Marivella
+  rotate: false
+  xy: 684, 412
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Mawala
+  rotate: false
+  xy: 820, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Miang
+  rotate: false
+  xy: 956, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Moravskova
+  rotate: false
+  xy: 1092, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Morilands
+  rotate: false
+  xy: 412, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Mythralis
+  rotate: false
+  xy: 548, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Nerav
+  rotate: false
+  xy: 684, 276
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Nikolskaya
+  rotate: false
+  xy: 820, 412
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Nordalvia
+  rotate: false
+  xy: 956, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Northlake
+  rotate: false
+  xy: 1092, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Raider Republic
+  rotate: false
+  xy: 1228, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Rosina
+  rotate: false
+  xy: 548, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Rozovali
+  rotate: false
+  xy: 684, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Samaraine
+  rotate: false
+  xy: 820, 276
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Samudraya
+  rotate: false
+  xy: 956, 412
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Selanba
+  rotate: false
+  xy: 1092, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Solerra
+  rotate: false
+  xy: 1228, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Tachikawa
+  rotate: false
+  xy: 1364, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Tawantika
+  rotate: false
+  xy: 684, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Tazmira
+  rotate: false
+  xy: 820, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Te Rongoa
+  rotate: false
+  xy: 956, 276
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Pirate Alliance
+  rotate: false
+  xy: 1092, 412
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Tseraveli
+  rotate: false
+  xy: 1228, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Valonne
+  rotate: false
+  xy: 1364, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Valterrum
+  rotate: false
+  xy: 1500, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Varnasia
+  rotate: false
+  xy: 820, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Vinh Noura
+  rotate: false
+  xy: 956, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Virelia
+  rotate: false
+  xy: 1092, 276
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Wombaroo
+  rotate: false
+  xy: 1228, 412
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Yorubasia
+  rotate: false
+  xy: 1364, 548
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Zarqanistan
+  rotate: false
+  xy: 1500, 684
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Zoryava
+  rotate: false
+  xy: 1636, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/Érainn
+  rotate: false
+  xy: 956, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
