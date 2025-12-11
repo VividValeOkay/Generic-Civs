@@ -1843,4 +1843,15 @@
 		"innerColor": [21,36,237],
 		"cities": ["Amoria"]
 	},
+	{
+		"name": "Elysium",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [250,218,7],
+		"cities": ["Elysium"]
+	},
 ]
