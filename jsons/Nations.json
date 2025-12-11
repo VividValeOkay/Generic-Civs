@@ -1531,7 +1531,7 @@
 		"cities": ["Doiplus","Monure","Rote","Sumcama","Telomus","Icadonu","Malomus","Lopido","Sumipres","Molo","Numusip","Resmoica","Calus","Lomamus"],
 	},
   {
-		"name": "Qinshiyama",
+		"name": "Qinshiyama Dynasty",
 		"leaderName": "Leader",
 		"startBias": ["Hill"],
 
@@ -1552,9 +1552,8 @@
 		"cities": ["Lingmori","Hanokashima","Meizhouka","Tenshulin","Ryukecheng","Baoshima","Xiangmori","Sorinkou","Minatozhou","Longharu","Shenokada","Kaifukawa"],
 	},
   {
-		"name": "Hualin",
+		"name": "Cardia Republic",
 		"leaderName": "Leader",
-		"startBias": ["Grassland"],
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
@@ -1567,10 +1566,52 @@
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
-		"outerColor": [186,186,160],
-		"innerColor": [28,76,107],
+		"outerColor": [245,71,242],
+		"innerColor": [121,41,148],
 		"uniqueName": "Generic Nation",
-		"cities": ["Longzhou","Meilinshan","Huacheng","Yunxiang","Zhanyuan","Fuyingzhen","Qianzhou","Lianrong","Xiangtai","Shenlinfu","Baoxiang","Hanpingdu"],
+		"cities": ["Carddale","Caros","Car-car","Caki","Camnick","Colock","Cack","Cung","Cush","Cali-doler","Caco","Cingkok"],
+	},
+	{
+		"name": "Arkol Sultanate", // Yădakk polytopia style
+		"leaderName": "Leader",
+		"startBias": ["Desert"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
+		"defeated": "My people will mourn me not with tears, but with human blood.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Let us join our forces together and reap the rewards.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [125,35,28],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Arkol","Samgear","Merazol","Kitjaug","Bershar","Tsamerül","Arkugăn","Olgykh","Urkazge","Ezsamki","Kolstüm","Geartjaül"],
+	},
+	{
+		"name": "Bancarna",
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "Welcome to our nation, friend.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [163,128,126],
+		"innerColor": [125,35,28],
+		"uniqueName": "Generic Nation",
+		"cities": ["Calpo","Fritampo","Tamdia","Casilandia","Bolcasi","Folan","Sancolu","Ponade","Topcasi","Diabu","Colusandi","Coolcatam"],
 	},
 	
 // City-States
