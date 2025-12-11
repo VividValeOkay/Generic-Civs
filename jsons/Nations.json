@@ -1489,6 +1489,89 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Malanjeiro","Kisombala","Lubangola","Ndongamira","Tombarico","Kavindulo","Muxilanga","Lobarique","Bengoasso","Kualimena","Sambandira","Ondaviro"],
 	},
+	{
+		"name": "Kalumara",
+		"leaderName": "Leader",
+		"startBias": ["Desert","Plains"],
+
+		"declaringWar": "This is war. Be prepared.",
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
+		"introduction": "Welcome to Kalumara, stranger.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [255,153,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Sambalani","Koromassa","Jeninako","Balifara","Tombarako","Makoliba","Felamori","Gorintana","Kasimale","Makorida","Selimbara","Jokorani"],
+	},
+	{
+		"name": "Doiplus", // Imperius style from polytopia
+		"leaderName": "Leader",
+
+		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [0,0,255],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Doiplus","Monure","Rote","Sumcama","Telomus","Icadonu","Malomus","Lopido","Sumipres","Molo","Numusip","Resmoica","Calus","Lomamus"],
+	},
+  {
+		"name": "Qinshiyama",
+		"leaderName": "Leader",
+		"startBias": ["Hill"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
+		"introduction": "Welcome to Qinshiyama, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [204,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Lingmori","Hanokashima","Meizhouka","Tenshulin","Ryukecheng","Baoshima","Xiangmori","Sorinkou","Minatozhou","Longharu","Shenokada","Kaifukawa"],
+	},
+  {
+		"name": "Hualin",
+		"leaderName": "Leader",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.", 
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [186,186,160],
+		"innerColor": [28,76,107],
+		"uniqueName": "Generic Nation",
+		"cities": ["Longzhou","Meilinshan","Huacheng","Yunxiang","Zhanyuan","Fuyingzhen","Qianzhou","Lianrong","Xiangtai","Shenlinfu","Baoxiang","Hanpingdu"],
+	},
 	
 // City-States
 	{
