@@ -1478,7 +1478,7 @@
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to Kalombira, stranger.",
 
-		"neutralHello": "Welcome.",
+		"neutralHello": "G'day.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Is the following trade of interest to you?",
@@ -1519,7 +1519,7 @@
 		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
 		"introduction": "Welcome to our nation, stranger.",
 
-		"neutralHello": "Welcome.",
+		"neutralHello": "G'day.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Is the following trade of interest to you?",
@@ -1560,7 +1560,7 @@
 		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.", 
 		"introduction": "Welcome to our nation, stranger.",
 
-		"neutralHello": "Welcome.",
+		"neutralHello": "G'day.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
@@ -1602,7 +1602,7 @@
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to our nation, friend.",
 
-		"neutralHello": "Welcome.",
+		"neutralHello": "G'day.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Is the following trade of interest to you?",
@@ -1612,6 +1612,67 @@
 		"innerColor": [125,35,28],
 		"uniqueName": "Generic Nation",
 		"cities": ["Calpo","Fritampo","Tamdia","Casilandia","Bolcasi","Folan","Sancolu","Ponade","Topcasi","Diabu","Colusandi","Coolcatam"],
+	},
+	{
+		"name": "Smokiva",
+		"leaderName": "Leader",
+
+		"declaringWar": "It is clear that you are the reason your nation is a failed state. Therefore, we must invade.",
+		"attacked": "Scum of the earth! Your pathetic towns will be torn to pieces!",
+		"defeated": "Our people we be remembered... Our people will not fade.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "I bid you welcome.",
+		"hateHello": "Scum..!",
+
+		"tradeRequest": "Let's trade! I'm sure this will be a new begining for our people.",
+		"declaringFriendship": "I offer you our hand. We could be great allies... I hope.",
+
+		"outerColor": [64,73,156],
+		"innerColor": [0,0,0],
+		"uniqueName": "Generic Nation",
+		"cities": ["Grunshite","Rosemand","Zere","Ker","Radoza","Bicalge","Sharove","Gline","Pleso","Mercy","Alfioso","Marinda","Akrene","Kar"],
+	},
+	{
+		"name": "Saxtenland",
+		"leaderName": "Leader",
+		"startBias": ["Forest"],
+
+		"declaringWar": "It is clear that you are the reason your nation is a failed state. Therefore, we must invade.",
+		"attacked": "Na ja, egal. I presume you know what you're doing.",
+		"defeated": "Our people we be remembered... Our people will not fade.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [237,237,12],
+		"innerColor": [82,68,51],
+		"uniqueName": "Generic Nation",
+		"cities": ["Hauwert","Grünstadt","Siegkri","Blutes","Brechstadt","Hauer","Grunes","Siegwert","Krieger","Blutstadt","Bresieg","Grunkri"],
+	},
+  {
+		"name": "Temirhan", // Uzbek style
+		"leaderName": "Leader",
+
+		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "The gods have deprived Marabunta of their favour. We have been defeated.",
+		"introduction": "Welcome to Temirhan, stranger.",
+
+		"neutralHello": "G'day.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [115,82,235],
+		"innerColor": [255,223,107],
+		"uniqueName": "Generic Nation",
+		"cities": ["Yashilshah","Qadimur","Harchakamir","Qumqayiqya","Shahqadim","Kirtemirya","Yasqadimgi","Harshahurqum","Qadimgiya","Shahharchaka","Yashilqadimur","Kirtemirqayiqya"],
 	},
 	
 // City-States
