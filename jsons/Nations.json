@@ -215,7 +215,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Tundra"],
 
-		"declaringWar": "You're disturbing us, prepare for war.",
+		"declaringWar": "Y",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
 		"introduction": "Welcome to our nation, stranger.",
@@ -320,7 +320,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Plains"],
 
-		"declaringWar": "You're disturbing us, prepare for war.",
+		"declaringWar": "Your transgressions are as deep as oceans. O God, grant that I may chastise this one!",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to Yorubasia, stranger.",
@@ -341,7 +341,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Grassland"],
 
-		"declaringWar": "We have no choice, war it must be.",
+		"declaringWar": "Your transgressions are as deep as oceans. O God, grant that I may chastise this one!",
 		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to our nation, stranger.",
@@ -467,7 +467,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Grassland"],
 
-		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
+		"declaringWar": "The armies of Virelia await you with open arms!",
 		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
 		"defeated": "Is this what death feels like..?",
 		"introduction": "I am Leader, and I represent Virelia. May there always be peace between us.",
@@ -488,7 +488,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Plains","Jungle"],
 
-		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
+		"declaringWar": "The armies of Amaxa await you with open arms!",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
 		"introduction": "I am Leader, Amaxa's queen and protector. Those who thought us weak litter the ocean floor.",
@@ -509,7 +509,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Grassland"],
 
-		"declaringWar": "We have no choice, war it must be.",
+		"declaringWar": "The stars predict your defeat. You cannot argue with the heavens.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
 		"introduction": "I am Leader, Huarenzhou's queen and protector. Those who thought us weak litter the ocean floor.",
@@ -572,7 +572,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Jungle"],
 
-		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
+		"declaringWar": "The stars predict your defeat. You cannot argue with the heavens.",
 		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Why do you come before the Immortal Son of Heaven, the Great Leader?",
@@ -593,7 +593,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Coast"],
 
-		"declaringWar": "You're disturbing us, prepare for war.",
+		"declaringWar": "We are no strangers to war. You have strayed from God's path, and now we will correct it.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
 		"introduction": "Welcome to our nation, friend.",
@@ -635,7 +635,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Grassland"],
 
-		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+		"declaringWar": "We are no strangers to war. You have strayed from God's path, and now we will correct it.",
 		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Hello, I am Leader. My people call me Valu, but please, call me friend.",
@@ -677,7 +677,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Coast"],
 
-		"declaringWar": "You're disturbing us, prepare for war.",
+		"declaringWar": "I will not allow the Empire to suffer you any longer. The time has come to end this charade!",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Why do you come before the Immortal Son of Heaven, the Great Leader?",
@@ -803,7 +803,7 @@
 		"leaderName": "Leader",
 		"startBias": ["Plains","Hill"],
 
-		"declaringWar": "You're disturbing us, prepare for war.",
+		"declaringWar": "I will not allow the Empire to suffer you any longer. The time has come to end this charade!",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
 		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
 		"introduction": "Welcome to Aniyvwi, stranger.",
