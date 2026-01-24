@@ -2060,4 +2060,37 @@
 		"innerColor": [250,218,7],
 		"cities": ["Elysium"]
 	},
+	{
+		"name": "Grebes",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [170,27,170],
+		"cities": ["Grebes"]
+	},
+	{
+		"name": "Paradise",
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [176,116,0],
+		"cities": ["Paradise"]
+	},
+	{
+		"name": "Juva",
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [80,80,35],
+		"cities": ["Juva"]
+	},
 ]
