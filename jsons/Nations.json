@@ -846,7 +846,7 @@
 		"startBias": ["Desert"],
 
 		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
-		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"attacked": "Though Itavi declines, our pyramids shall remain long after your plans fall to ruin.",
 		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
 		"introduction": "I am King of Itavi, scourge of my foes, and defender of the faithful. Greetings.",
 
@@ -1266,7 +1266,7 @@
 		"startBias": ["Coast","Desert"],
 
 		"declaringWar": "Your actions leave us no choice but to respond with force. War is inevitable.",
-		"attacked": "Oh well, I presume you know what you're doing.",
+		"attacked": "Though Nerav declines, our pyramids shall remain long after your plans fall to ruin.",
 		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
 		"introduction": "I'm the Emperor, those who come in merchant ships are my friends. Is there any future for those who oppose my will?",
 
