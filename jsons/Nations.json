@@ -301,7 +301,7 @@
 
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "So rarely have I seen this side of war.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
@@ -322,7 +322,7 @@
 
 		"declaringWar": "Your transgressions are as deep as oceans. O God, grant that I may chastise this one!",
 		"attacked": "I will not allow you to remain in power any longer. You have offended me for too long!",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "So rarely have I seen this side of war.",
 		"introduction": "Welcome to Yorubasia, stranger.",
 
 		"neutralHello": "Welcome.",
@@ -343,7 +343,7 @@
 
 		"declaringWar": "Your transgressions are as deep as oceans. O God, grant that I may chastise this one!",
 		"attacked": "No more words. Today, Tachikawa charges toward your defeat.",
-		"defeated": "We have surrendered... you have defeated us.",
+		"defeated": "Do not glory in your conquest. One day you may see your capital bathed in flame.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "Welcome.",
@@ -427,8 +427,8 @@
 
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "We have surrendered... you have defeated us.",
-		"introduction": "Hello, I am Hojo Tokimune of Japan, a humble disciple of Bushido.",
+		"defeated": "Do not glory in your conquest. One day you may see your capital bathed in flame.",
+		"introduction": "Hello, I am the leader of Selanba, a humble disciple of our code.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1516,7 +1516,7 @@
 
 		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
 		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"defeated": "Ruin! Ruin! Doiplus becomes Iram of the Pillars, remembered only by the melancholy poets.",
 		"introduction": "Welcome to our nation, stranger.",
 
 		"neutralHello": "G'day.",
@@ -1660,7 +1660,7 @@
 
 		"declaringWar": "You are unworthy of rulership. I will take your cities and your people, and rule them for you.",
 		"attacked": "We will defend our nation at all cost!",
-		"defeated": "The gods have deprived Temirhan of their favour. We have been defeated.",
+		"defeated": "Ruin! Ruin! Yashilshah becomes Iram of the Pillars, remembered only by the melancholy poets.",
 		"introduction": "Leader, I speak for the people of Temirhan as their Prime Minister. We seek sympathetic allies in the fight against the hawks of war.",
 
 		"neutralHello": "G'day.",
