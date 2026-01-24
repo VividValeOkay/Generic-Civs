@@ -1690,8 +1690,8 @@
 		"tradeRequest": "Is the following trade of interest to you?",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
-		"outerColor": [8,0,54],
-		"innerColor": [228,134,228],
+		"outerColor": [145,15,128],
+		"innerColor": [222,120,18],
 		"uniqueName": "Generic Nation",
 		"cities": ["San Aurelio","Puerto Valmera","Santa Isabela","Montelirio","Río Cárdenas","Valle Dorado","Nueva Esmeral","Altamira del Sur","Costa Bravía","San Lucerio","Miraflores Alta","Bahía Claros"],
 	},
