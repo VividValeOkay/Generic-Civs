@@ -92,7 +92,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am the leader of Nikolskaya. Say what you will and be on your way.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -113,7 +113,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We shall never surrender.",
 		"defeated": "The gods have deprived Archenland of their favour. We have been defeated.", 
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "All you see is the land of the Archenland, and I am their chief.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -176,7 +176,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We shall never surrender.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "All you see is the land of the Varnasia, and I am their chief.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -197,7 +197,7 @@
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am Leader, the Queen Mother of Marivella, and I welcome you to the realm. I do so look forward to learning all there is to know about you.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -260,7 +260,7 @@
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "The gods have deprived Wombaroo of their favour. We have been defeated.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am Leader, the Queen Mother of Wombaroo, and I welcome you to the realm. I do so look forward to learning all there is to know about you.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
@@ -281,7 +281,7 @@
 		"declaringWar": "You are in my way, you must be destroyed..",
 		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am Leader, Lion of Altanşehir, of the house and lineage of Solomon, emperor of Tazmira. Greetings.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
@@ -365,7 +365,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "The gods have deprived Khorassanavia of their favour. We have been defeated.",
-		"introduction": "Welcome to Khorassanavia, stranger.",
+		"introduction": "I am Leader, Lion of Mehrabad, of the house and lineage of Solomon, emperor of Khorassanavia. Greetings.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -386,7 +386,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am the Goddess reborn, I am the living Chinko, I am Leader and an ally, if you are worthy.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -449,7 +449,7 @@
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to Érainn, stranger.",
+		"introduction": "I am the Goddess reborn, I am the living River Shannon, I am Leader and an ally, if you are worthy.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -470,7 +470,7 @@
 		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
 		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am Leader, and I represent Virelia. May there always be peace between us.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -554,7 +554,7 @@
 		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am Leader, and I represent Khazrador. May there always be peace between us.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -575,7 +575,7 @@
 		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to Auraverde, stranger.",
+		"introduction": "Why do you come before the Immortal Son of Heaven, the Great Leader?",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -659,7 +659,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "Welcome to Belovodra, stranger.",
+		"introduction": "I am King of Belovodra, scourge of my foes, and defender of the faithful. Greetings.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -680,7 +680,7 @@
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We have surrendered... you have defeated us.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Why do you come before the Immortal Son of Heaven, the Great Leader?",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -743,7 +743,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We have surrendered... you have defeated us.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "On behalf of the people of Rosina, welcome. I am Prime Minister Leader.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -764,7 +764,7 @@
 		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
 		"attacked": "Fate is against you. You earned the animosity of the Morilands in your exploration. Your days are numbered.",
 		"defeated": "My people will mourn me not with tears, but with human blood.",
-		"introduction": "Welcome to the Morilands, stranger.",
+		"introduction": "I am Leader, destroyer of conspiracies in the Alpine woods and the Senate alike.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -785,7 +785,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
 		"defeated": "My people will mourn me not with tears, but with human blood.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Aha! We have met your people, at last...",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -848,7 +848,7 @@
 		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
 		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
-		"introduction": "Welcome to Itavi, stranger.",
+		"introduction": "I am King of Itavi, scourge of my foes, and defender of the faithful. Greetings.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -869,7 +869,7 @@
 		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am Leader, Queen of Moralahy and leader of the Antanimbaryans. Who are you? What victories can you speak of?",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -890,7 +890,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
 		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.", 
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "On behalf of the people of Moravskova, welcome. I am Prime Minister Leader.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -911,7 +911,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "Fate is against you. You earned the animosity of Mythralis in your exploration. Your days are numbered.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to Mythralis, stranger.",
+		"introduction": "You stand before Leader, Autocrat and Emperor of the Mythralians, scourge of my foes. Behold Thermakopoli!",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -932,7 +932,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "War? We shall crush you!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are no worse fates.",
-		"introduction": "Welcome to Rozovali, stranger.",
+		"introduction": "I am Leader, destroyer of conspiracies in the woods and the Senate alike.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -953,7 +953,7 @@
 		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am Leader, Queen of Darwakhel and leader of the Zarqanistanis. Who are you? What victories can you speak of?",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
@@ -974,7 +974,7 @@
 		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
 		"attacked": "Fate is against you. You earned the animosity of Kiwiara in your exploration. Your days are numbered.",
 		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "You stand before Leader, Autocrat and Emperor of the Kiwiarans, scourge of my foes. Behold Te Rangiwhare!",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -995,7 +995,7 @@
 		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "The gods have deprived Marabunta of their favour. We have been defeated.",
-		"introduction": "Welcome to Marabunta, stranger.",
+		"introduction": "Aha! We have met your people, at last...",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1016,7 +1016,7 @@
 		"declaringWar": "This is war. Be prepared.",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
 		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
-		"introduction": "Welcome to Kelzouria, stranger.",
+		"introduction": "Aha! We have met your people, at last...",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
@@ -1037,7 +1037,7 @@
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "Though we fall, our spirit remains unbroken. History will remember Lopinto.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am Leader, destroyer of conspiracies in the woods and the Senate alike.",
 
 		"neutralHello": "Bongiorna, cumpà!",
 		"hateHello": "What do YOU want?!",
@@ -1058,7 +1058,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
 		"defeated": "My fall... was inevitable...", 
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Good day. It is an honor to meet you in person. It seems great minds do attract each other, after all.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1121,7 +1121,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I, President Leader, welcome you to Gran Helveria.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1163,7 +1163,7 @@
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "Your treachery is noted. We shall remember this.",
 		"defeated": "My people will mourn me not with tears, but with human blood.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Good day. It is an honor to meet you in person. It seems great minds do attract each other, after all.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
@@ -1184,7 +1184,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to Northlake, stranger.",
+		"introduction": "I am the scowling lord of Maple Ridge Heights. The king. Who comes before me? A warrior or a coward?",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1205,7 +1205,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "Fate is against you. You earned the animosity of Makahara in your exploration. Your days are numbered.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to Makahara, stranger.",
+		"introduction": "I am Leader, destroyer of conspiracies in the tropical rainforests and the Senate alike.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1226,7 +1226,7 @@
 		"declaringWar": "Your actions leave us no choice but to respond with force. War is inevitable.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We have surrendered... you have defeated us.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Aha! We have met your people, at last...",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1247,7 +1247,7 @@
 		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Aha! We have met your people, at last...",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1268,7 +1268,7 @@
 		"declaringWar": "Your actions leave us no choice but to respond with force. War is inevitable.",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I'm the Emperor, those who come in merchant ships are my friends. Is there any future for those who oppose my will?",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1310,7 +1310,7 @@
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "Though we fall, our spirit remains unbroken. History will remember Drovanka.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I'm the Emperor, those who come in merchant ships are my friends. Is there any future for those who oppose my will?",
 
 		"neutralHello": "Hello!",
 		"hateHello": "What do YOU want?!",
@@ -1331,7 +1331,7 @@
 		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Welcome to the United States of Gadwall. If you conduct yourself well, you can consider us friends.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
@@ -1352,7 +1352,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
 		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.", 
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am the scowling lord of Longzhou. The tongzhizhe. Who comes before me? A warrior or a coward?",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1373,7 +1373,7 @@
 		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
 		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
 		"defeated": "We have surrendered... you have defeated us.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Leader, I speak for the people of Tseraveli as their Prime Minister. We seek sympathetic allies in the fight against the hawks of war.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1394,7 +1394,7 @@
 		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to Calderain, stranger.",
+		"introduction": "Greetings. We are by the Grace of God, Leader. Leader of the Calderain. And soon, dare I say, the empire.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1414,7 +1414,7 @@
 		"declaringWar": "If I am to be honest, I tire of those pointless charades. Why don't we settle our disputes on the field of battle, like true men? Perhaps the esteemed poets will sing of your valor... or mine!",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I, President Leader, welcome you to Gran Haneora.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1435,7 +1435,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Welcome to the United States of Amlida. If you conduct yourself well, you can consider us friends.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1476,7 +1476,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Welcome to Kalombira, stranger.",
+		"introduction": "By the grace of the one God, the powerful, the victorious, the everlasting of whose Kingdom there is no end, I greet you, my sincere friend.",
 
 		"neutralHello": "G'day.",
 		"hateHello": "What do YOU want?!",
@@ -1538,7 +1538,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "Welcome to Qinshiyama, stranger.",
+		"introduction": "Greetings. I am the Holy Qinshiyama Emperor, King of Qinshiyama and many others. I trust that you will rule your lands as I do: through might.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1558,7 +1558,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
 		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.", 
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Welcome to the Cardia Republic, stranger.",
 
 		"neutralHello": "G'day.",
 		"hateHello": "What do YOU want?!",
@@ -1579,7 +1579,7 @@
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
 		"defeated": "My people will mourn me not with tears, but with human blood.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "I am the leader of the Arkol Sultanate. Say what you will and be on your way.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1620,7 +1620,7 @@
 		"declaringWar": "It is clear that you are the reason your nation is a failed state. Therefore, we must invade.",
 		"attacked": "Scum of the earth! Your pathetic towns will be torn to pieces!",
 		"defeated": "Our people we be remembered... Our people will not fade.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "Do I really have to introduce you to our country? Well I suppose so... We are the Smokiva.",
 
 		"neutralHello": "I bid you welcome.",
 		"hateHello": "Scum..!",
@@ -1641,7 +1641,7 @@
 		"declaringWar": "It is clear that you are the reason your nation is a failed state. Therefore, we must invade.",
 		"attacked": "Na ja, egal. I presume you know what you're doing.",
 		"defeated": "Our people we be remembered... Our people will not fade.",
-		"introduction": "Welcome to our nation, stranger.",
+		"introduction": "By the grace of the one God, the powerful, the victorious, the everlasting of whose Kingdom there is no end, I greet you, my sincere friend.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -1661,7 +1661,7 @@
 		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "The gods have deprived Temirhan of their favour. We have been defeated.",
-		"introduction": "Welcome to Temirhan, stranger.",
+		"introduction": "Leader, I speak for the people of Temirhan as their Prime Minister. We seek sympathetic allies in the fight against the hawks of war.",
 
 		"neutralHello": "G'day.",
 		"hateHello": "What do YOU want?!",
@@ -1673,6 +1673,27 @@
 		"innerColor": [255,223,107],
 		"uniqueName": "Generic Nation",
 		"cities": ["Yashilshah","Qadimur","Harchakamir","Qumqayiqya","Shahqadim","Kirtemirya","Yasqadimgi","Harshahurqum","Qadimgiya","Shahharchaka","Yashilqadimur","Kirtemirqayiqya"],
+	},
+	{
+		"name": "Celenqua",
+		"leaderName": "Leader",
+		"startBias": ["Hill"],
+
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "Though we fall, our spirit remains unbroken. History will remember Celenqua.",
+		"introduction": "Greetings. We are by the Grace of God, Leader. Leader of the Celenqua. And soon, dare I say, the empire.",
+
+		"neutralHello": "Hello!",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [8,0,54],
+		"innerColor": [228,134,228],
+		"uniqueName": "Generic Nation",
+		"cities": ["San Aurelio","Puerto Valmera","Santa Isabela","Montelirio","Río Cárdenas","Valle Dorado","Nueva Esmeral","Altamira del Sur","Costa Bravía","San Lucerio","Miraflores Alta","Bahía Claros"],
 	},
 	
 // City-States
