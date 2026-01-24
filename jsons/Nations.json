@@ -258,7 +258,7 @@
 		"startBias": ["Plains"],
 
 		"declaringWar": "You are in my way, you must be destroyed.",
-		"attacked": "Very well, this shall not be forgotten.",
+		"attacked": "I will not allow you to remain in power any longer. You have offended me for too long!",
 		"defeated": "The gods have deprived Wombaroo of their favour. We have been defeated.",
 		"introduction": "I am Leader, the Queen Mother of Wombaroo, and I welcome you to the realm. I do so look forward to learning all there is to know about you.",
 
@@ -321,7 +321,7 @@
 		"startBias": ["Plains"],
 
 		"declaringWar": "Your transgressions are as deep as oceans. O God, grant that I may chastise this one!",
-		"attacked": "Oh well, I presume you know what you're doing.",
+		"attacked": "I will not allow you to remain in power any longer. You have offended me for too long!",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to Yorubasia, stranger.",
 
@@ -342,7 +342,7 @@
 		"startBias": ["Grassland"],
 
 		"declaringWar": "Your transgressions are as deep as oceans. O God, grant that I may chastise this one!",
-		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
+		"attacked": "No more words. Today, Tachikawa charges toward your defeat.",
 		"defeated": "We have surrendered... you have defeated us.",
 		"introduction": "Welcome to our nation, stranger.",
 
@@ -489,7 +489,7 @@
 		"startBias": ["Plains","Jungle"],
 
 		"declaringWar": "The armies of Amaxa await you with open arms!",
-		"attacked": "Oh well, I presume you know what you're doing.",
+		"attacked": "No more words. Today, Amaxa charges toward your defeat.",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
 		"introduction": "I am Leader, Amaxa's queen and protector. Those who thought us weak litter the ocean floor.",
 
@@ -510,7 +510,7 @@
 		"startBias": ["Grassland"],
 
 		"declaringWar": "The stars predict your defeat. You cannot argue with the heavens.",
-		"attacked": "We will defend our nation at all cost!",
+		"attacked": "This will make a great saga! The poets will sing of my valor!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
 		"introduction": "I am Leader, Huarenzhou's queen and protector. Those who thought us weak litter the ocean floor.",
 
@@ -531,7 +531,7 @@
 		"startBias": ["Grassland"],
 
 		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
-		"attacked": "We will defend our nation at all cost!",
+		"attacked": "Your treacherous aggression shall not succeed. Valonne will endure!",
 		"defeated": "The gods have deprived Valonne of their favour. We have been defeated.",
 		"introduction": "Hello, I am Leader. My people call me Vanu, but please, call me friend.",
 
@@ -804,7 +804,7 @@
 		"startBias": ["Plains","Hill"],
 
 		"declaringWar": "I will not allow the Empire to suffer you any longer. The time has come to end this charade!",
-		"attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+		"attacked": "Your treacherous aggression shall not succeed. The Aniyvwi will endure!",
 		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
 		"introduction": "Welcome to Aniyvwi, stranger.",
 
