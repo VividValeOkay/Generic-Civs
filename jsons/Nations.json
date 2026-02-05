@@ -1779,6 +1779,27 @@
 		"uniqueName": "Dwarf",
 		"cities": ["Sindeim","Hulfviik","Eskiragynsvoorg","Bylafrdard","Asgenvik","Sirkvorg","Hylafrskaand","Ernirarik","Valimholm","Rorfjal","Hagdeell","Denvikee"],
 	},
+	{
+		"name": "Dolphindale",
+		"leaderName": "Alcyone",
+		"startBias": ["Coast"],
+
+		"declaringWar": "Bon voyage! The soldiers of Dolphindale are ready to strike you down!",
+		"attacked": "Ahahaha! Take a move on us and you'll sureley regret it!",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"introduction": "I'm the Emperor, those who come in merchant ships are my friends. Is there any future for those who oppose my will?",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [12,216,235],
+		"innerColor": [7,124,135],
+		"uniqueName": "Generic Nation",
+		"cities": ["Dolphindale","Aquavale","Seaton","Kamata","Fintown","Galits","Divdive","Seasonal","Esailburg","Wash City","Moawai","Mermaid"],
+	},
 	
 // City-States
 	{
