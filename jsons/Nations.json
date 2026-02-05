@@ -1800,7 +1800,7 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Dolphindale","Aquavale","Seaton","Kamata","Fintown","Galits","Divdive","Seasonal","Esailburg","Wash City","Moawai","Mermaid"],
 	},
-  {
+    {
 		"name": "Euna Cult", // Cultists style
 		"leaderName": "Leader",
 		"startBias": ["Plains"],
@@ -1820,8 +1820,8 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "Purple Cult",
 		"cities": ["Euna Grounds","Purple Path","Undying Quaters","Esreth","Ousaleigh","Pursan","Menou","Proteth","Skisom","Revelith","Mayash","Purpitt"],
-	},
-  {
+    },
+    {
 		"name": "Albtoru", // Worldbox style
 		"leaderName": "Leader",
 
@@ -1840,6 +1840,27 @@
 		"innerColor": [110,9,9],
 		"uniqueName": "Generic Nation",
 		"cities": ["Ehid","Rosziswald","Krychewno","Denalin","Szcziwy","Plustywice","Kaw","Chelonik","Szonik","Pynewy","Jegard","Biwy"],
+  },
+  {
+		"name": "Solviglia",  // Italian Lombard style
+		"leaderName": "Leader",
+		"startBias": ["Hill"],
+
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen. We ride to war!",
+		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"introduction": "Leader, I speak for the people of Solviglia as their Prime Minister. We seek sympathetic allies in the fight against the hawks of war.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [67,212,23],
+		"innerColor": [255,255,255],
+		"uniqueName": "Generic Nation",
+		"cities": ["Brusengo","Cavalate","Rovellago","Montasco","Linarone","Cassengo","Valtrino","Gorzate","Paderolo","Marnecco","Sernago","Brembate"],
 	},
 	
 // City-States
