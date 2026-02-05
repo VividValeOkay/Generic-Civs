@@ -1818,8 +1818,28 @@
 
 		"outerColor": [155,29,191],
 		"innerColor": [0,0,0],
-		"uniqueName": "Generic Nation",
+		"uniqueName": "Purple Cult",
 		"cities": ["Euna Grounds","Purple Path","Undying Quaters","Esreth","Ousaleigh","Pursan","Menou","Proteth","Skisom","Revelith","Mayash","Purpitt"],
+	},
+  {
+		"name": "Albtoru", // Worldbox style
+		"leaderName": "Leader",
+
+		"declaringWar": "You are unworthy of rulership. I will take your cities and your people, and rule them for you.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Ruin! Ruin! Ehid becomes Iram of the Pillars, remembered only by the melancholy poets.",
+		"introduction": "Leader, I speak for the people of Albtoru as their Prime Minister. We seek sympathetic allies in the fight against the hawks of war.",
+
+		"neutralHello": "G'day.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [230,18,18],
+		"innerColor": [110,9,9],
+		"uniqueName": "Generic Nation",
+		"cities": ["Ehid","Rosziswald","Krychewno","Denalin","Szcziwy","Plustywice","Kaw","Chelonik","Szonik","Pynewy","Jegard","Biwy"],
 	},
 	
 // City-States
