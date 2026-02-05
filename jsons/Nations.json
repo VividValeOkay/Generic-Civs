@@ -1695,6 +1695,90 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["San Aurelio","Puerto Valmera","Santa Isabela","Montelirio","Río Cárdenas","Valle Dorado","Nueva Esmeral","Altamira del Sur","Costa Bravía","San Lucerio","Miraflores Alta","Bahía Claros"],
 	},
+	{
+		"name": "Usedel",
+		"leaderName": "Maraik Vlidky",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Fate is against you. You earned the animosity of Usedel in your exploration. Your days are numbered.",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "I am Maraik Vlidky, destroyer of conspiracies in the forests and the Senate alike.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [16,16,122],
+		"innerColor": [25, 25, 196],
+		"uniqueName": "Human",
+		"cities": ["Rawa","Ranin","Llin","Dsk","Zow","Rice","Krowic","Czyno","Wanin","Plin","Ksk","Chow"],
+	},
+	{
+		"name": "Nymafhil",
+		"leaderName": "Rane Vaera",
+		"startBias": ["Jungle"],
+
+		"declaringWar": "We are no strangers to war. You have strayed from God's path, and now we will correct it.",
+		"attacked": "We will defend our nation at all cost!",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "A meeting blessed by God, I am sure. I am King of Greater Nymafhil. Yes, a king.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [38,133,76],
+		"innerColor": [109,227,156],
+		"uniqueName": "Elf",
+		"cities": ["Oona","O'Oon","Eera","Lyarore","Amenara","Ygone","Ifemeas","A'Rne","Oad","Ehaadi","Eoechil","Aoore"],
+	},
+	{
+		"name": "Axe of Uh",
+		"leaderName": "Apa Ba Zoga",
+		"startBias": ["Desert"],
+
+		"declaringWar": "We have no choice, war it must be.",
+		"attacked": "Fate is against you. You earned the animosity of Uh in your exploration. Your days are numbered.",
+		"defeated": "Is this what death feels like..?",
+		"introduction": "You stand before Leader, Autocrat and Emperor of the Axe of Uh, scourge of my foes. Behold Ohk Top!",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [184,129,2],
+		"innerColor": [227,194,118],
+		"uniqueName": "Orc",
+		"cities": ["Ohk Top","Gane","Zekorid","Da Pap","Te Ner","Okh Urg","Kag Dog","Ze Dad","Roz Pap","Okh Agh","Ga Pak","Uz Ord"],
+    },
+	{
+		"name": "Gor Egtil",
+		"leaderName": "Gan Mahl Bjifinssond",
+		"startBias": ["Tundra"],
+
+		"declaringWar": "Your transgressions are as deep as oceans. O God, grant that I may chastise this one!",
+		"attacked": "No more words. Today, the Spears of Gor Egtil charges toward your defeat.",
+		"defeated": "Do not glory in your conquest. One day you may see your capital bathed in flame.",
+		"introduction": "Welcome to our nation, stranger.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [186,183,4],
+		"innerColor": [255,255,255],
+		"uniqueName": "Dwarf",
+		"cities": ["Sindeim","Hulfviik","Eskiragynsvoorg","Bylafrdard","Asgenvik","Sirkvorg","Hylafrskaand","Ernirarik","Valimholm","Rorfjal","Hagdeell","Denvikee"],
+	},
 	
 // City-States
 	{
