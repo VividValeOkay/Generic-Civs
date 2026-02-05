@@ -1800,6 +1800,27 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Dolphindale","Aquavale","Seaton","Kamata","Fintown","Galits","Divdive","Seasonal","Esailburg","Wash City","Moawai","Mermaid"],
 	},
+  {
+		"name": "Euna Cult", // Cultists style
+		"leaderName": "Leader",
+		"startBias": ["Plains"],
+
+		"declaringWar": "Utter fool! You have doomed your pathetic people to fates worse than death! We shall do the job to free your people of your bloody curse!",
+		"attacked": "We cannot be destroyed, for Euna is on our side..!",
+		"defeated": "Euna has left us to rot... Euna has left us to eternal darkness..!",
+		"introduction": "Speak, stranger. You walk upon holy ground... State your purpose.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+
+		"outerColor": [155,29,191],
+		"innerColor": [0,0,0],
+		"uniqueName": "Generic Nation",
+		"cities": ["Euna Grounds","Purple Path","Undying Quaters","Esreth","Ousaleigh","Pursan","Menou","Proteth","Skisom","Revelith","Mayash","Purpitt"],
+	},
 	
 // City-States
 	{
