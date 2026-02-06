@@ -434,7 +434,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Is the following trade of interest to you?",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "The children of Selanba will stand with you, if you stand with them. Shall we declare our friendship?",
 
 		"outerColor": [0,170,90],
 		"innerColor": [155,155,255],
@@ -533,13 +533,13 @@
 		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "Your treacherous aggression shall not succeed. Valonne will endure!",
 		"defeated": "The gods have deprived Valonne of their favour. We have been defeated.",
-		"introduction": "Hello, I am Leader. My people call me Vanu, but please, call me friend.",
+		"introduction": "Hello, I am Leader. My people call me Leader, but please, call me friend.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "I offer this, for your consideration.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"tradeRequest": "I have sent you a trade delegation with all of the customary gifts: herbs, olives, various cheeses, and baguettes to eat them with, of course.",
+		"declaringFriendship": "I extend to you the royal hand in friendship. Do you accept it?",
 
 		"outerColor": [190,0,0],
 		"innerColor": [0,40,120],
@@ -638,13 +638,13 @@
 		"declaringWar": "We are no strangers to war. You have strayed from God's path, and now we will correct it.",
 		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
 		"defeated": "We have surrendered... you have defeated us.",
-		"introduction": "Hello, I am Leader. My people call me Valu, but please, call me friend.",
+		"introduction": "Hello, I am Leader. My people call me Leader, but please, call me friend.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "I offer this, for your consideration.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "Glorious Valterrum extends an offer of friendship. Do you accept?",
 
 		"outerColor": [51,28,63],
 		"innerColor": [235,226,79],
@@ -769,8 +769,8 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "Let us join our forces together and reap the rewards.",
-		"declaringFriendship": "Let us join our forces together and reap the rewards.",
+		"tradeRequest": "I am sending you gifts—surplus horses, a youth's bow, and airag to fortify you. Drink up!",
+		"declaringFriendship": "Accept Morilands' friendship! I want to see the world tremble when they learn",
 
 		"outerColor": [14,37,97],
 		"innerColor": [255,206,49],
@@ -895,8 +895,8 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"tradeRequest": "I have sent you a trade delegation bearing gifts of the finest caviar. Please enjoy.",
+		"declaringFriendship": "I am honored to extend to you my friendship, and a friendship between our nations. Do you accept?",
 
 		"outerColor": [255,129,18],
 		"innerColor": [21,108,48],
