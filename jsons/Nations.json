@@ -2281,4 +2281,37 @@
 		"innerColor": [80,80,35],
 		"cities": ["Juva"]
 	},
+	{
+		"name": "Tomon",
+		"cityStateType": "Religious",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [194,121,12],
+		"cities": ["Tomon"]
+	},
+	{
+		"name": "Nashmir",
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [21,36,237],
+		"cities": ["Nashmir"]
+	},
+	{
+		"name": "Coltukia City",
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We have surrendered... you have defeated us.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [86,199,91],
+		"cities": ["Coltukia City"]
+	},
 ]
