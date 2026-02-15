@@ -1862,6 +1862,27 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Brusengo","Cavalate","Rovellago","Montasco","Linarone","Cassengo","Valtrino","Gorzate","Paderolo","Marnecco","Sernago","Brembate"],
 	},
+    {
+		"name": "Durmania",
+		"leaderName": "Leader",
+		"startBias": ["Forest"],
+
+		"declaringWar": "We can't stand by you any longer... consider us at war.",
+		"attacked": "Durmania shall hold strong! You shall never cross our lands!",
+		"defeated": "Our cities burn, our people lay in its ashes... is this really victory to you..?",
+		"introduction": "I welcome you, good stranger. I hope we get along very well.",
+
+		"neutralHello": "Yes?",
+		"hateHello": "What now?",
+
+		"tradeRequest": "Trade makes the world go 'round.",
+		"declaringFriendship": "I see you as a valuable ally. do you see me as the same?",
+
+		"outerColor": [105,199,129],
+		"innerColor": [51,51,51],
+		"uniqueName": "Generic Nation",
+		"cities": ["Durgesberg","Rubyrock City","Rontario","Walshwise","Rivertown","Myervale","Nopella","Druid","Fortence","Lashton","Newerow","Tomorrow"],
+	},
 	
 // City-States
 	{
