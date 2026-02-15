@@ -1883,6 +1883,27 @@
 		"uniqueName": "Generic Nation",
 		"cities": ["Durgesberg","Rubyrock City","Rontario","Walshwise","Rivertown","Myervale","Nopella","Druid","Fortence","Lashton","Newerow","Tomorrow"],
 	},
+    {
+		"name": "Manxland", // Manx language style
+		"leaderName": "Leader",
+		"startBias": ["Coast"],
+
+		"declaringWar": "We shall see whos beliefs are greater!",
+		"attacked": "Wherever you throw it, Manxland shall still stand!",
+		"defeated": "Fine! If we have to join your people than so be it...",
+		"introduction": "I am the leader of Manxland. The land of Mann.",
+
+		"neutralHello": "Hello! Traaghyn mie?",
+		"hateHello": "Cre'n red ta shiu er nyn yannoo jeh, charrey?",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "I see you as a valuable ally. do you see me as the same?",
+
+		"outerColor": [105,199,129],
+		"innerColor": [51,51,51],
+		"uniqueName": "Generic Nation",
+		"cities": ["Balleyvane","Port Ny Creggagh","Glen Caarjyn","Cronk Vayl","Kirk Moirrey","Balley Shennagh","Port Grianagh","Glen Droghad","Cronk Ellanagh","Balley Beg Mooar","Kirk Vaarey","Port Cabbalyn"],
+	},
 	
 // City-States
 	{
