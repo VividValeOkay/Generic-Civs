@@ -20,6 +20,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Ardenia","Oreltown","Towner","Daverdell","Frol City","Toriden","Casadale","Valetown","Rolandtown","Huntrell","Hoover","Borell","Nadden","Crosstown","Trotell"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
   {
 		"name": "Khalkhan",
@@ -83,6 +84,7 @@
 		"innerColor": [25,164,164],
 		"uniqueName": "Generic Nation",
 		"cities": ["Solerra","Oleara","Soloma","Solirro","Sasarro","Casoro","Lerra","Liraro","Solisa","New Solirro","Ososo","Terrisa","Elisro","Salerra","Portso"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
   {
 		"name": "Nikolskaya",
@@ -125,6 +127,7 @@
 		"innerColor": [123,123,221],
 		"uniqueName": "Generic Nation",
 		"cities": ["Aria","Chen","Coland","Nowey","Way","Acren","Acrolin","Hosland","Besland","Coway","Acret","Fren","Anreco","Laland","Sumrac"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
   {
 		"name": "Vinh Noura",
@@ -167,6 +170,7 @@
 		"innerColor": [154,123,210],
 		"uniqueName": "Generic Nation",
 		"cities": ["Jabalora","Jabibi","Jobora","Janibo","Lorakani","Loblara","Jobobo","Jalira","Jona","Jovoblorabanki","Aloriba","Tojova","Kisjo"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	  {
 		"name": "Varnasia",
@@ -272,6 +276,7 @@
 		"innerColor": [50,50,75],
 		"uniqueName": "Generic Nation",
 		"cities": ["Marindurra","Port Warrunga","Karrinbah","Nullamara","Tallaroo","Burrindal","Warrumbra","Coolamara","Narangup","Mount Yalonga","Wirralin","Jandurra"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Tazmira",
@@ -461,6 +466,7 @@
 		"innerColor": [120,35,120],
 		"uniqueName": "Generic Nation",
 		"cities": ["Dunvarra","Ballycorin","Kilnareen","Ardros","Carricklea","Glenmara","Inisbray","Loughvale","Tarmonbane","Druimlara","Ballyrenn","Kilcara"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Virelia",
@@ -482,6 +488,7 @@
 		"innerColor": [20,120,20],
 		"uniqueName": "Generic Nation",
 		"cities": ["Aurelion","Maravine","Valisca","Corentha","Neravia","Tessara","Roveth","Elastra","Vornel","Lunara","Miralune","Drestan"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Amaxa",
@@ -713,6 +720,7 @@
 		"innerColor": [255,255,0],
 		"uniqueName": "Generic Nation",
 		"cities": ["Riverton","Cedar Falls","Maple Ridge","Silverton","Ashbury","Pinecrest","Lakeshore City","Hawthorne Springs","Westfield","Oakburg","Red Mesa","New Brighton"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Greg's Empire",
@@ -734,6 +742,7 @@
 		"innerColor": [84,11,0],
 		"uniqueName": "Generic Nation",
 		"cities": ["Greg's Domain","Greg's Favourate City","The Beach","The one place with the cool hill thingy","Me Casa","Gobodogo","Stilts","Greg's Chill Spot","Just in case","The Smile Town","Wheel","River side","Greg's Bay"],
+        "spyNames": ["Greg","Jason","Gregory","Tommy","Gregina","Olivia"]
 	},
   {
 		"name": "Rosina",
@@ -755,6 +764,7 @@
 		"innerColor": [60,97,37],
 		"uniqueName": "Generic Nation",
 		"cities": ["Rosina","Trofina","Trogie","Utavae","Rasan","Tuvfosca","Gretsca","Novosilgie","Rascalina","Trogosan","Gregwood","Yugoslalina","Tratu","Novovae","Tesca","Utarae"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
   {
 		"name": "Morilands",
@@ -839,6 +849,7 @@
 		"innerColor": [219,219,126],
 		"uniqueName": "Generic Nation",
 		"cities": ["Ironwatch","Redhaven","Stormgate City","Black Mesa Ridge","Falconpoint","Raiders’ Rest","Steelwater","Gunrock Falls","Ashford Frontier","Thunder Pass","Hellion Bluff","Coppertrail"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Itavi-Morisis",
@@ -860,6 +871,7 @@
 		"innerColor": [227,227,136],
 		"uniqueName": "Generic Nation",
 		"cities": ["Miaga","Fomist","Dannitch","Fogomoth","Hatma","Etagi","Kolisha","Darnive","Horoga","Harnitch","Vorny","Gagahg"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Antanimbary",
@@ -1154,6 +1166,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Skullport Haven","Rumreef Bay","Cutlass Cove","Deadwake Harbor","Bloodtide Anchorage","Gunner’s Gallows","Plankbreak Point","Corsair’s Rest","Saltfang Shoals","Marauder’s Wharf","Shantyspire Isle","Blackfin Bluff"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Tawantika",
@@ -1196,6 +1209,7 @@
 		"innerColor": [1,42,108],
 		"uniqueName": "Generic Nation",
 		"cities": ["Maple Ridge Heights","Silverpine","Cedarbrook","Westshore Crossing","Prairieview","Northhaven Bay","Goldenfield","Lakeshore","Redstone Harbour","Glacierline","Rivermount","Snowcrest"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	  {
 		"name": "Makahara",
@@ -1301,6 +1315,7 @@
 		"innerColor": [38,41,80],
 		"uniqueName": "Fully ChatGPT Nation",
 		"cities": ["Florindale","Marivessa","Linibaria","Estorina","Valerona","Miravelle","Korinthia","Selvarin","Talinora","Aveloria","Dravencia","Lumeriana"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Drovanka",
@@ -1343,6 +1358,7 @@
 		"innerColor": [7,110,64],
 		"uniqueName": "Generic Nation",
 		"cities": ["Gadwall","Jonira","Platz","Damien","Folirin Pols","Aufgidam","Nuruck","Sink","Pols Onlino","Exavar","Gavon","Benhiman","Joshnon"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
   {
 		"name": "Hualin",
@@ -1406,6 +1422,7 @@
 		"innerColor": [8,15,105],
 		"uniqueName": "Generic Nation",
 		"cities": ["Lochvarren","Bracemuir","Cairndale","Inverlaith","Dunmora","Kelbray","Morashire","Farlanbrae","Glenvaroch","Strathallen","Crailmore","Tarvannoch"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Haneora",  // Korean style
@@ -1529,6 +1546,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Doiplus","Monure","Rote","Sumcama","Telomus","Icadonu","Malomus","Lopido","Sumipres","Molo","Numusip","Resmoica","Calus","Lomamus"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
   {
 		"name": "Qinshiyama Dynasty",
@@ -1570,6 +1588,7 @@
 		"innerColor": [121,41,148],
 		"uniqueName": "Generic Nation",
 		"cities": ["Carddale","Caros","Car-car","Caki","Camnick","Colock","Cack","Cung","Cush","Cali-doler","Caco","Cingkok"],
+        "spyNames": ["Cen","Cason","Clake","Commy","Carah","Colivia"]
 	},
 	{
 		"name": "Arkol Sultanate", // Yădakk polytopia style
@@ -1612,6 +1631,7 @@
 		"innerColor": [125,35,28],
 		"uniqueName": "Generic Nation",
 		"cities": ["Calpo","Fritampo","Tamdia","Casilandia","Bolcasi","Folan","Sancolu","Ponade","Topcasi","Diabu","Colusandi","Coolcatam"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Smokiva",
@@ -1632,6 +1652,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "Generic Nation",
 		"cities": ["Grunshite","Rosemand","Zere","Ker","Radoza","Bicalge","Sharove","Gline","Pleso","Mercy","Alfioso","Marinda","Akrene","Kar"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Saxtenland",
@@ -1715,6 +1736,7 @@
 		"innerColor": [25, 25, 196],
 		"uniqueName": "Human",
 		"cities": ["Rawa","Ranin","Llin","Dsk","Zow","Rice","Krowic","Czyno","Wanin","Plin","Ksk","Chow"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Nymafhil",
@@ -1736,6 +1758,7 @@
 		"innerColor": [109,227,156],
 		"uniqueName": "Elf",
 		"cities": ["Oona","O'Oon","Eera","Lyarore","Amenara","Ygone","Ifemeas","A'Rne","Oad","Ehaadi","Eoechil","Aoore"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	{
 		"name": "Axe of Uh",
@@ -1799,6 +1822,7 @@
 		"innerColor": [7,124,135],
 		"uniqueName": "Generic Nation",
 		"cities": ["Dolphindale","Aquavale","Seaton","Kamata","Fintown","Galits","Divdive","Seasonal","Esailburg","Wash City","Moawai","Mermaid"],
+        "spyNames": ["Ahab","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
     {
 		"name": "Euna Cult", // Cultists style
@@ -1820,6 +1844,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "Purple Cult",
 		"cities": ["Euna Grounds","Purple Path","Undying Quaters","Esreth","Ousaleigh","Pursan","Menou","Proteth","Skisom","Revelith","Mayash","Purpitt"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
     },
     {
 		"name": "Albtoru", // Worldbox style
@@ -1840,6 +1865,7 @@
 		"innerColor": [110,9,9],
 		"uniqueName": "Generic Nation",
 		"cities": ["Ehid","Rosziswald","Krychewno","Denalin","Szcziwy","Plustywice","Kaw","Chelonik","Szonik","Pynewy","Jegard","Biwy"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
   },
   {
 		"name": "Solviglia",  // Italian Lombard style
@@ -1882,6 +1908,7 @@
 		"innerColor": [51,51,51],
 		"uniqueName": "Generic Nation",
 		"cities": ["Durgesberg","Rubyrock City","Rontario","Walshwise","Rivertown","Myervale","Nopella","Druid","Fortence","Lashton","Newerow","Tomorrow"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
     {
 		"name": "Manxland", // Manx language style
@@ -1903,6 +1930,7 @@
 		"innerColor": [51,51,51],
 		"uniqueName": "Generic Nation",
 		"cities": ["Balleyvane","Port Ny Creggagh","Glen Caarjyn","Cronk Vayl","Kirk Moirrey","Balley Shennagh","Port Grianagh","Glen Droghad","Cronk Ellanagh","Balley Beg Mooar","Kirk Vaarey","Port Cabbalyn"],
+        "spyNames": ["Ben","Jason","Blake","Tommy","Sarah","Olivia"]
 	},
 	
 // City-States
