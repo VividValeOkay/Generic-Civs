@@ -42,6 +42,7 @@
 		"innerColor": [155,155,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Khali","Kamali","Omelik","Gadhi","Komlik","Hadidi","Rhali","Khamlid","Uhndi","Hokam","Khalikid","Khocha","Thakim","Okhaki","Khamlikid","Khud","Khus","Kamadhi"],
+        "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
 	},
   {
 		"name": "Te Rongoa",
@@ -978,6 +979,7 @@
 		"innerColor": [134,114,2],
 		"uniqueName": "Generic Nation",
 		"cities": ["Darwakhel","Mirzaghai","Khandar Kot","Shenwargar","Tora Qandai","Zalmabad","Roshankhel","Barkhanzai","Sardakh Kot","Luwarghar","Pazirai","Nawshagai"],
+        "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
 	},
 	{
 		"name": "Kiwiara",
@@ -1041,6 +1043,7 @@
 		"innerColor": [69,114,48],
 		"uniqueName": "Generic Nation",
 		"cities": ["Tizi n’Marran","Aït Ilemhan","Agadir Tazlout","Imidir Ouzram","Timgharin","Azrou n’Khelwan","Tamalout Igrane","Ifrane Tazir","Taghoula n’Serwan","Amskour Ouhem","Tamzilt Afraw","Ighrem Taslout"],
+        "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
 	},
 	{
 		"name": "Lopinto",
@@ -1104,6 +1107,7 @@
 		"innerColor": [213,9,49],
 		"uniqueName": "Generic Nation",
 		"cities": ["Mahdat al-Nur","Qasr al-Bahrin","Arwaha","Zaharat al-Qamar","Ruwala","Fayruzat","Nakhla al-Sharq","Sab’atayn","Qal’at Rasim","Tamaris","Hafr al-Majid","Birqat al-Sahra"],
+        "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
 	},
 	{
 		"name": "Hochbayernmark",
@@ -1297,6 +1301,7 @@
 		"innerColor": [190,146,61],
 		"uniqueName": "Generic Nation",
 		"cities": ["Ramah","Telon","Kiryat Or","Naveh","Tzofar","Galit","Shefa","Dorim","Yonat","Barak","Maor","Eran"],
+        "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
 	},
 	{
 		"name": "Samaraine",
@@ -1614,6 +1619,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Arkol","Samgear","Merazol","Kitjaug","Bershar","Tsamerül","Arkugăn","Olgykh","Urkazge","Ezsamki","Kolstüm","Geartjaül"],
+        "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
 	},
 	{
 		"name": "Bancarna",
@@ -1699,6 +1705,7 @@
 		"innerColor": [255,223,107],
 		"uniqueName": "Generic Nation",
 		"cities": ["Yashilshah","Qadimur","Harchakamir","Qumqayiqya","Shahqadim","Kirtemirya","Yasqadimgi","Harshahurqum","Qadimgiya","Shahharchaka","Yashilqadimur","Kirtemirqayiqya"],
+        "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
 	},
 	{
 		"name": "Celenqua",
@@ -1785,6 +1792,7 @@
 		"innerColor": [227,194,118],
 		"uniqueName": "Orc",
 		"cities": ["Ohk Top","Gane","Zekorid","Da Pap","Te Ner","Okh Urg","Kag Dog","Ze Dad","Roz Pap","Okh Agh","Ga Pak","Uz Ord"],
+        "spyNames": ["Solhofaat", "Khenzeer", "Zarafah", "Temsaah", "Abyadh", "Mostafa", "Yusuf", "Waddah", "Sameera", "Gamal"]
     },
 	{
 		"name": "Gor Egtil",
