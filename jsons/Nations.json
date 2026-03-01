@@ -107,6 +107,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Nikosgra","Rono","Skaya","Saskim","Ninoska","Kayska","Kayaski","Nikolisk","Skamask","Skoli","Ninsk","Noroskad","Noliski","Nikoskad"],
+        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
 	},
   {
 		"name": "Archenland",
@@ -682,6 +683,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Krasnovar","Velichinsk","Ostrelovo","Novyabrsk","Tserelinsk","Morodino","Zimograd","Yaroslavka","Darnevsk","Sokolovo","Petrovyansk","Ruzhinskoye"],
+        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
 	},
 	{
 		"name": "Kāholaloa",
@@ -919,6 +921,7 @@
 		"innerColor": [21,108,48],
 		"uniqueName": "Generic Nation",
 		"cities": ["Velkovice","Drahovany","Kravínská","Lestoměř","Bradlín","Mirovská","Zelenov","Třebavice","Kostelec nad Oravou","Rohličany","Březnice Horni","Svitomír"],
+        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
 	},
 	  {
 		"name": "Mythralis",
@@ -962,6 +965,7 @@
 		"innerColor": [202,20,21],
 		"uniqueName": "Generic Nation",
 		"cities": ["Varinovac","Srednje Polje","Kraljevgrad","Dobrelje","Lučanik","Mariborje","Dravica","Petrovska Luka","Ružinovac","Belobor","Kamenik","Jadrinje"],
+        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
 	},
 	{
 		"name": "Zarqanistan",
@@ -1264,6 +1268,7 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "Generic Nation",
 		"cities": ["Novohradnytsi","Zelenivka","Berezodar","Kryvostav","Duborych","Snihursk","Tsvitopil","Radaniv","Vyshnorytsk","Olenivtsi","Solotaria","Chorneluh"],
+        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
 	},
 	{
 		"name": "Mawala",
@@ -1350,6 +1355,7 @@
 		"innerColor": [228,134,228],
 		"uniqueName": "Generic Nation",
 		"cities": ["Brzostow","Laskovia","Wierzbica","Tarnowek","Klemirza","Ostrowin","Zalesnik","Dobravia","Milowice","Radzimir","Nowogrod","Lubienka"],
+        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
 	},
 	{
 		"name": "Gadwall",
@@ -1415,6 +1421,7 @@
 		"innerColor": [9,112,84],
 		"uniqueName": "Generic Nation",
 		"cities": ["Kavreliani","Tamarasheni","Mtskavara","Zurenidze","Ralishvili","Dargomari","Lekhinavi","Tserkaveti","Bashuriani","Gorinelda","Velashuri","Antriketi"],
+        "spyNames": ["Alexei", "Lena", "Dmitry", "Anastasia", "Tatiana", "Boris", "Doktor Seriy", "Mikhail", "Natacha", "Zmeya"]
 	},
 	  {
 		"name": "Calderain",  // Scottish style
