@@ -533,6 +533,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Haicheng","Linzhou","Anping","Jinhe","Qiaonan","Yucheng","Futai","Xuanhai","Ningzhou","Baolin","Huantai","Dongqiu"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 	},
   {
 		"name": "Valonne",
@@ -809,6 +810,7 @@
 		"innerColor": [248,202,86],
 		"uniqueName": "Generic Nation",
 		"cities": ["Kaum Pheng","Nkao Lis","Maivteb","Tsa Neeb","Va Hluas","Nruab Tsheej","Hli Dawb","Paj Nyab","Lauj Xauv","Ntaub Hmoob","Khawv Txim","Tsov Toj"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 	},
 	{
 		"name": "Aniyvwi",
@@ -1087,6 +1089,7 @@
 		"innerColor": [44,120,101],
 		"uniqueName": "Generic Nation",
 		"cities": ["Phố Thanh Giang","Hải Phong Linh","Bình Trúc Sơn","Ngọc An Thủy","Long Khánh Đạo","Thành Phượng Lâm","Tân Hòa Phúc","Thủy Minh Châu","Vạn Liên Khê","Phú Hải Đường","Sơn Vũ Thành","Lạc Thiên Giáp"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 	},
   {
 		"name": "Alqarisa",
@@ -1389,6 +1392,7 @@
 		"innerColor": [28,76,107],
 		"uniqueName": "Generic Nation",
 		"cities": ["Longzhou","Meilinshan","Huacheng","Yunxiang","Zhanyuan","Fuyingzhen","Qianzhou","Lianrong","Xiangtai","Shenlinfu","Baoxiang","Hanpingdu"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 	},
   {
 		"name": "Tseraveli",  // Georgian style
@@ -1578,6 +1582,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Lingmori","Hanokashima","Meizhouka","Tenshulin","Ryukecheng","Baoshima","Xiangmori","Sorinkou","Minatozhou","Longharu","Shenokada","Kaifukawa"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 	},
   {
 		"name": "Cardia Republic",
@@ -2377,5 +2382,5 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [86,199,91],
 		"cities": ["Coltukia City"]
-	},
+	}
 ]
