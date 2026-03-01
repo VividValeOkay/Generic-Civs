@@ -195,6 +195,7 @@
 		"innerColor": [80,175,50],
 		"uniqueName": "Generic Nation",
 		"cities": ["Main Varnhi","Karman","Ranavan","Varanpur","Nandipura","Kalseth","Ravapura","Tiravelli","Devanagar","Manjalore","Suryanabad","Chitrali"],
+        "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
 	},
 	{
 		"name": "Marivella",
@@ -258,6 +259,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Tserkhong","Drumtse","Pangthar","Lhakmar","Chomdrel","Yultrang","Khorzang","Tendral","Minglha","Rinpolha","Jomkhar","Pelthang"],
+	    "spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
 	},
 	{
 		"name": "Wombaroo",
