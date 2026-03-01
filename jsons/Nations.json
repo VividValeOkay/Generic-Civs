@@ -937,6 +937,7 @@
 		"innerColor": [125,236,227],
 		"uniqueName": "Generic Nation",
 		"cities": ["Thermakopoli","Aigoría","Kalythos","Mystrakia","Pelekrini","Dionaste","Korinthyra","Néa Thalassa","Lykopetra","Argyronisi","Kastridi","Evanthira"],
+	    "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
 	},
   {
 		"name": "Rozovali",
