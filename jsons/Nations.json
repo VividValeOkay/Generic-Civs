@@ -150,6 +150,7 @@
 		"innerColor": [123,123,221],
 		"uniqueName": "Generic Nation",
 		"cities": ["Vihn Nara","Cho Neu","Noura Nai","Dak Nou","Vinri Lan","Chao","Cho Vihn","Neu Vihn","Noro Noura","Nara Nara","Dai Dai","Noura Dai"],
+        "spyNames": ["Li", "Chen", "Zhang", "Liu", "Yang", "Huang", "Zhao", "Wu", "Zhou", "Sun"]
 	},
   {
 		"name": "Jabalora",
