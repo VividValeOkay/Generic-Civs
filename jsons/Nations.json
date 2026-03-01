@@ -319,6 +319,7 @@
 		"innerColor": [0,0,130],
 		"uniqueName": "Generic Nation",
 		"cities": ["Harenburg","Altmarshaven","Keldenstadt","Nordholm","Varnhagen","Barkensfeld","Rosthaven","Grunwaldt","Wesselbruck","Tarnedorf","Lichtenmeer","Elsenheim"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
 	},
 	{
 		"name": "Yorubasia",
@@ -1124,6 +1125,7 @@
 		"innerColor": [249,200,86],
 		"uniqueName": "Generic Nation",
 		"cities": ["Grünthal am See","Bergstadt Hollenfels","Altweiden","Steinbruck","Südlingen","Oberklausen","Falkenried","Münterdorf","Hirschwalden","Kelzheim","Traunfeld","Rosenbruck"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
 	},
   {
 		"name": "Helveria",
@@ -1145,6 +1147,7 @@
 		"innerColor": [247,216,1],
 		"uniqueName": "Generic Nation",
 		"cities": ["Sankt Uldren","Brünnwald","Vattersee","Kürzhofen","Alpenbruck","Dornlützel","Ober Zelmatt","Wenderspitz","Nidertal","Falkenried","Schattenroth","Rüschensberg"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
 	},
 	  {
 		"name": "The Pirate Alliance",
@@ -1484,6 +1487,7 @@
 		"innerColor": [30,97,19],
 		"uniqueName": "Generic Nation",
 		"cities": ["Brunhafen","Lindenfeldia","Rosenbachtal","Dreimundorf","Krausenberg","Waldhinteren","Blumenriedau","Neuschlattin","Falkenriva","Bergwiesental","Sonnenheimau","Kleindorfhausen"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
 	},
   {
 		"name": "Kalombira",
@@ -1674,6 +1678,7 @@
 		"innerColor": [82,68,51],
 		"uniqueName": "Generic Nation",
 		"cities": ["Hauwert","Grünstadt","Siegkri","Blutes","Brechstadt","Hauer","Grunes","Siegwert","Krieger","Blutstadt","Bresieg","Grunkri"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
 	},
   {
 		"name": "Temirhan", // Uzbek style
@@ -1801,6 +1806,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Dwarf",
 		"cities": ["Sindeim","Hulfviik","Eskiragynsvoorg","Bylafrdard","Asgenvik","Sirkvorg","Hylafrskaand","Ernirarik","Valimholm","Rorfjal","Hagdeell","Denvikee"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
 	},
 	{
 		"name": "Dolphindale",
