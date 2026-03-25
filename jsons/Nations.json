@@ -2,7 +2,7 @@
 {
 		//nations
 		"name": "Ardenia",
-		"leaderName": "Leader",
+		"leaderName": "Adam",
 		"startBias": ["Grassland"],
 
 		"declaringWar": "We have no choice, war it must be.",
@@ -67,7 +67,7 @@
 	},
   {
 		"name": "Solerra",
-		"leaderName": "Leader",
+		"leaderName": "Gayelord",
 		"startBias": ["Plains"],
 
 		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
@@ -111,7 +111,7 @@
 	},
   {
 		"name": "Archenland",
-		"leaderName": "Leader",
+		"leaderName": "Mallory",
 		"startBias": ["Grassland"],
 
 		"declaringWar": "We have no choice, war it must be.",
