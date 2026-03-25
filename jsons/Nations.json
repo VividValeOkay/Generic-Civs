@@ -24,7 +24,7 @@
 	},
   {
 		"name": "Khalkhan",
-		"leaderName": "Leader",
+		"leaderName": "Behdad",
 		"startBias": ["Desert"],
 
 		"declaringWar": "We have no choice, war it must be.",
@@ -371,13 +371,13 @@
 	},
   {
 		"name": "Khorassanavia",
-		"leaderName": "Leader",
+		"leaderName": "Gholami",
 		"startBias": ["Desert"],
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "The gods have deprived Khorassanavia of their favour. We have been defeated.",
-		"introduction": "I am Leader, Lion of Mehrabad, of the house and lineage of Solomon, emperor of Khorassanavia. Greetings.",
+		"introduction": "I am Gholami, Lion of Mehrabad, of the house and lineage of Solomon, emperor of Khorassanavia. Greetings.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
