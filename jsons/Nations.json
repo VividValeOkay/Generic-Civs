@@ -436,13 +436,13 @@
 	},
 	{
 		"name": "Selanba",
-		"leaderName": "Leader",
+		"leaderName": "Viator",
 		"startBias": ["Plains"],
 
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "Oh well, I presume you know what you're doing.",
 		"defeated": "Do not glory in your conquest. One day you may see your capital bathed in flame.",
-		"introduction": "Hello, I am the leader of Selanba, a humble disciple of our code.",
+		"introduction": "Hello, I am Viator of Selanba, a humble disciple of our code.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
