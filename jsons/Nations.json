@@ -410,6 +410,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Lukemba","Kintasa","Mbalondo","Ntulani","Makanda","Zinoka","Kalundu","Tumbasa","Lumanda","Ngosani","Bamvoko","Kisenga"],
+		"spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Bokhari", "Guedado", "Adhiambo", "Kagiso", "Uluthando", "Bonginkosi",	"Anele"],
 	},
   {
 		"name": "Aqilunaq",
@@ -452,6 +453,7 @@
 		"innerColor": [155,155,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["KwaMahlori","Botswelo","Mahlengwe","Tsanangwe","Leboga","Modisea","Nkobele","Makolano","Selatla","Bontleng","Kwathandi","Moselane"],
+		"spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Bokhari", "Guedado", "Adhiambo", "Kagiso", "Uluthando", "Bonginkosi",	"Anele"],
 	},
 	{
 		"name": "Érainn",
@@ -903,6 +905,7 @@
 		"innerColor": [20,224,180],
 		"uniqueName": "Generic Nation",
 		"cities": ["Antanimbary","Moralahy","Ranofitina","Mahavelona","Ambodinoro","Vatomandrya","Ankazaribe","Tsimialona","Sahandria","Befarantsa","Miandamaka","Anjavidoro"],
+		"spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Bokhari", "Guedado", "Adhiambo", "Kagiso", "Uluthando", "Bonginkosi",	"Anele"],
 	},
   {
 		"name": "Moravskova",
@@ -1033,6 +1036,7 @@
 		"innerColor": [115,82,235],
 		"uniqueName": "Generic Nation",
 		"cities": ["Mabiratswe","Tawerugwe","Sebapula","Makundatshi","Ramatungwa","Gorometsa","Tshepabira","Nyarokhama","Motsiwara","Chawengwe","Morudziwa","Kanyetsana"],
+		"spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Bokhari", "Guedado", "Adhiambo", "Kagiso", "Uluthando", "Bonginkosi",	"Anele"],
 	},
 	{
 		"name": "Kelzouria",
@@ -1293,6 +1297,7 @@
 		"innerColor": [184,175,118],
 		"uniqueName": "Generic Nation",
 		"cities": ["Mji wa Kizimba","Pwani Mrembo","Kisiwa cha Lengo","Mto Wajani","Bahari Kuu","Upepo Mwanga","Mlimani Sefu","Bandari Lamuzi","Kijiji cha Mchanga","Mwembe Safiri","Kongozi Mvua","Darajani Mpya"],
+		"spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Bokhari", "Guedado", "Adhiambo", "Kagiso", "Uluthando", "Bonginkosi",	"Anele"],
 	},
 	{
 		"name": "Nerav",
@@ -1488,6 +1493,7 @@
 		"innerColor": [115,80,7],
 		"uniqueName": "Generic Nation",
 		"cities": ["Togbavi","Selamede","Kponakodo","Avetawui","Nukpodome","Hedzranfi","Awunikpe","Lomadofi","Senakpeme","Wodomeka","Dzetakoli","Mawulime"],
+		"spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Bokhari", "Guedado", "Adhiambo", "Kagiso", "Uluthando", "Bonginkosi",	"Anele"],
 	},
 	{
 		"name": "Brunhafen",  // Hunsrik language style
@@ -1530,6 +1536,7 @@
 		"innerColor": [141,141,100],
 		"uniqueName": "Generic Nation",
 		"cities": ["Malanjeiro","Kisombala","Lubangola","Ndongamira","Tombarico","Kavindulo","Muxilanga","Lobarique","Bengoasso","Kualimena","Sambandira","Ondaviro"],
+		"spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Bokhari", "Guedado", "Adhiambo", "Kagiso", "Uluthando", "Bonginkosi",	"Anele"],
 	},
 	{
 		"name": "Kalumara",
@@ -1551,6 +1558,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Generic Nation",
 		"cities": ["Sambalani","Koromassa","Jeninako","Balifara","Tombarako","Makoliba","Felamori","Gorintana","Kasimale","Makorida","Selimbara","Jokorani"],
+		"spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Bokhari", "Guedado", "Adhiambo", "Kagiso", "Uluthando", "Bonginkosi",	"Anele"],
 	},
 	{
 		"name": "Doiplus", // Imperius style from polytopia
