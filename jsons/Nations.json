@@ -414,13 +414,13 @@
 	},
   {
 		"name": "Aqilunaq",
-		"leaderName": "Leader",
+		"leaderName": "Gopinatha",
 		"startBias": ["Tundra"],
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "A meeting blessed by God, I am sure. I am King of Greater Aqilunaq. Yes, a king.",
+		"introduction": "A meeting blessed by God, I am sure. I am King Gopinatha of Greater Aqilunaq. Yes, a king.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
