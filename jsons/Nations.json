@@ -956,13 +956,13 @@
 	},
   {
 		"name": "Rozovali",
-		"leaderName": "Leader",
+		"leaderName": "Anastasiy",
 		"startBias": ["Forest"],
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "War? We shall crush you!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are no worse fates.",
-		"introduction": "I am Leader, destroyer of conspiracies in the woods and the Senate alike.",
+		"introduction": "I am Anastasiy, destroyer of conspiracies in the woods and the Senate alike.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
