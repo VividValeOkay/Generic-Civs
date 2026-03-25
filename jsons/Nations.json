@@ -566,13 +566,13 @@
 	},
   {
 		"name": "Khazrador",
-		"leaderName": "Leader",
+		"leaderName": "Ioannikios",
 		"startBias": ["Hill"],
 
 		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "I am Leader, and I represent Khazrador. May there always be peace between us.",
+		"introduction": "I am Ioannikios, and I represent Khazrador. May there always be peace between us.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
