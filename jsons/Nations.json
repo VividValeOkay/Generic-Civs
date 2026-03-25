@@ -263,13 +263,13 @@
 	},
 	{
 		"name": "Wombaroo",
-		"leaderName": "Leader",
+		"leaderName": "Gulumbu",
 		"startBias": ["Plains"],
 
 		"declaringWar": "You are in my way, you must be destroyed.",
 		"attacked": "I will not allow you to remain in power any longer. You have offended me for too long!",
 		"defeated": "The gods have deprived Wombaroo of their favour. We have been defeated.",
-		"introduction": "I am Leader, the Queen Mother of Wombaroo, and I welcome you to the realm. I do so look forward to learning all there is to know about you.",
+		"introduction": "I am Gulumbu, the Queen Mother of Wombaroo, and I welcome you to the realm. I do so look forward to learning all there is to know about you.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
