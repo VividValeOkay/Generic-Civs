@@ -694,13 +694,13 @@
 	},
 	{
 		"name": "Kāholaloa",
-		"leaderName": "Leader",
+		"leaderName": "Haukea",
 		"startBias": ["Coast"],
 
 		"declaringWar": "I will not allow the Empire to suffer you any longer. The time has come to end this charade!",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We have surrendered... you have defeated us.",
-		"introduction": "Why do you come before the Immortal Son of Heaven, the Great Leader?",
+		"introduction": "Why do you come before the Immortal Son of Heaven, the Great Haukea?",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
