@@ -381,7 +381,7 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "I offer this, for your consideration.",
+		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [0,170,90],
@@ -873,7 +873,7 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "Is the following trade of interest to you?",
+		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [42,140,108],
@@ -1025,7 +1025,7 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "I offer this, for your consideration.",
+		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [255,223,107],
@@ -1585,7 +1585,7 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "I offer this, for your consideration.",
+		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
 
 		"outerColor": [204,0,0],
