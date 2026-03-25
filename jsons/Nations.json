@@ -46,7 +46,7 @@
 	},
   {
 		"name": "Te Rongoa",
-		"leaderName": "Leader",
+		"leaderName": "Mago",
 		"startBias": ["Coast"],
 
 		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
@@ -89,13 +89,13 @@
 	},
   {
 		"name": "Nikolskaya",
-		"leaderName": "Leader",
+		"leaderName": "Sergei",
 		"startBias": ["Tundra"],
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "I am the leader of Nikolskaya. Say what you will and be on your way.",
+		"introduction": "I am the Sergei of Nikolskaya. Say what you will and be on your way.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -133,7 +133,7 @@
 	},
   {
 		"name": "Vinh Noura",
-		"leaderName": "Leader",
+		"leaderName": "Kyros",
 		"startBias": ["Grassland"],
 
 		"declaringWar": "We have no choice, war it must be.",
