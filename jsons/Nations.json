@@ -480,13 +480,13 @@
 	},
 	{
 		"name": "Virelia",
-		"leaderName": "Leader",
+		"leaderName": "Modestus",
 		"startBias": ["Grassland"],
 
 		"declaringWar": "The armies of Virelia await you with open arms!",
 		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "I am Leader, and I represent Virelia. May there always be peace between us.",
+		"introduction": "I am Modestus, and I represent Virelia. May there always be peace between us.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
