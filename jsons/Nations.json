@@ -346,7 +346,7 @@
 		"innerColor": [130,0,130],
 		"uniqueName": "Generic Nation",
 		"cities": ["Yorubasia","Irewole","Adunpe","Temilade","Odogbire","Adewora","Ishokun","Ladogba","Morinsha","Oluwole","Efunre","Kayinjo"],
-		"spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Demeke", "Mulu Alem", "Abebech", "Zema", "Mihret", "Kebedech", "Alemnesh"],
+		"spyNames": ["Mulu Ken", "Wendimu", "Li'ol", "Bokhari", "Guedado", "Adhiambo", "Zema", "Mihret", "Kebedech", "Alemnesh"],
 	},
 	{
 		"name": "Tachikawa",
