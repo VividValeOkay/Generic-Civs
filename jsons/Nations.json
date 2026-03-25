@@ -502,13 +502,13 @@
 	},
 	{
 		"name": "Amaxa",
-		"leaderName": "Leader",
+		"leaderName": "Toatli",
 		"startBias": ["Plains","Jungle"],
 
 		"declaringWar": "The armies of Amaxa await you with open arms!",
 		"attacked": "No more words. Today, Amaxa charges toward your defeat.",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "I am Leader, Amaxa's queen and protector. Those who thought us weak litter the ocean floor.",
+		"introduction": "I am Toatli, Amaxa's queen and protector. Those who thought us weak litter the ocean floor.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
@@ -523,13 +523,13 @@
 	},
   {
 		"name": "Huarenzhou",
-		"leaderName": "Leader",
+		"leaderName": "Xian",
 		"startBias": ["Grassland"],
 
 		"declaringWar": "The stars predict your defeat. You cannot argue with the heavens.",
 		"attacked": "This will make a great saga! The poets will sing of my valor!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "I am Leader, Huarenzhou's queen and protector. Those who thought us weak litter the ocean floor.",
+		"introduction": "I am Xian, Huarenzhou's queen and protector. Those who thought us weak litter the ocean floor.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -587,13 +587,13 @@
 	},
 	  {
 		"name": "Auraverde",
-		"leaderName": "Leader",
+		"leaderName": "Obes",
 		"startBias": ["Jungle"],
 
 		"declaringWar": "The stars predict your defeat. You cannot argue with the heavens.",
 		"attacked": "It is silence that allows evil to triumph. We will not stand mute and allow you to continue on this mad quest unchecked.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "Why do you come before the Immortal Son of Heaven, the Great Leader?",
+		"introduction": "Why do you come before the Immortal Son of Heaven, the Great Obes?",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
@@ -629,7 +629,7 @@
 	},
 	{
 		"name": "Elnovia",
-		"leaderName": "Leader",
+		"leaderName": "Detam",
 		"startBias": ["Tundra"],
 
 		"declaringWar": "You're disturbing us, prepare for war.",
