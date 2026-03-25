@@ -155,7 +155,7 @@
 	},
   {
 		"name": "Jabalora",
-		"leaderName": "Leader",
+		"leaderName": "Mirriam",
 		"startBias": ["Desert"],
 
 		"declaringWar": "It comes to war. Jabalora shall use your own weapons against you!",
@@ -458,13 +458,13 @@
 	},
 	{
 		"name": "Érainn",
-		"leaderName": "Leader",
+		"leaderName": "Randal",
 		"startBias": ["Grassland"],
 
 		"declaringWar": "You're disturbing us, prepare for war.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "I am the Goddess reborn, I am the living River Shannon, I am Leader and an ally, if you are worthy.",
+		"introduction": "I am the Goddess reborn, I am the living River Shannon, I am Randal and an ally, if you are worthy.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
