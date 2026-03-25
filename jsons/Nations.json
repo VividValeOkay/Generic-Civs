@@ -1327,13 +1327,13 @@
 	},
 	{
 		"name": "Samaraine",
-		"leaderName": "Leader",
+		"leaderName": "Ravana",
 		"startBias": ["Tundra"],
 
 		"declaringWar": "Our patience has ended. Prepare yourself, for the might of Samaraine will not be denied!",
 		"attacked": "So it begins… You have chosen the path of blood. We will not falter!",
 		"defeated": "The gods have favored you this day... Our people shall rise again.",
-		"introduction": "Greetings, traveler. I am Leader of Samaraine. May our paths be prosperous… or, if need be, decisive.",
+		"introduction": "Greetings, traveler. I am Ravana of Samaraine. May our paths be prosperous… or, if need be, decisive.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
