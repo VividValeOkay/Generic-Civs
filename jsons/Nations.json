@@ -392,13 +392,13 @@
 	},
   {
 		"name": "Antumbi",
-		"leaderName": "Leader",
+		"leaderName": "Asemahle",
 		"startBias": ["Jungle"],
 
 		"declaringWar": "We have no choice, war it must be.",
 		"attacked": "We will defend our nation at all cost!",
 		"defeated": "We were defeated, so this makes me your prisoner. I suppose there are worse fates.",
-		"introduction": "I am the Goddess reborn, I am the living Chinko, I am Leader and an ally, if you are worthy.",
+		"introduction": "I am the Goddess reborn, I am the living Chinko, I am Asemahle and an ally, if you are worthy.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
