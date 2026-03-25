@@ -545,13 +545,13 @@
 	},
   {
 		"name": "Valonne",
-		"leaderName": "Leader",
+		"leaderName": "Ambre",
 		"startBias": ["Grassland"],
 
 		"declaringWar": "Shame that it has come this far. But ye wished it so. Next time, be so good, choose your words more wisely.",
 		"attacked": "Your treacherous aggression shall not succeed. Valonne will endure!",
 		"defeated": "The gods have deprived Valonne of their favour. We have been defeated.",
-		"introduction": "Hello, I am Leader. My people call me Leader, but please, call me friend.",
+		"introduction": "Hello, I am Ambre. My people call me Amy, but please, call me friend.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
