@@ -1211,6 +1211,7 @@
 		"innerColor": [247,216,1],
 		"uniqueName": "Generic Nation",
 		"cities": ["Qhapaqpampa","Inti Markana","Suyupallqa","Chaskaqutu","Ayllu Wanin","Killaq’iru","Pumaqanchi","Wiraqocha Llacta","Qoriwantu","Saqsaymana","Pachakilla","Yakuqosqo"],
+         "spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
 	},
   {
 		"name": "Northlake",
