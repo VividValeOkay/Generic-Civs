@@ -285,13 +285,13 @@
 	},
 	{
 		"name": "Tazmira",
-		"leaderName": "Levent",
+		"leaderName": "Alparslan",
 		"startBias": ["Plains","Desert"],
 
 		"declaringWar": "You are in my way, you must be destroyed..",
 		"attacked": "My attempts to avoid violence have failed. An eye for an eye only makes the world blind.",
 		"defeated": "Is this what death feels like..?",
-		"introduction": "I am Levent, Lion of Altanşehir, of the house and lineage of Solomon, emperor of Tazmira. Greetings.",
+		"introduction": "I am Alparslan, Lion of Altanşehir, of the house and lineage of Solomon, emperor of Tazmira. Greetings.",
 
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
