@@ -432,6 +432,7 @@
 		"innerColor": [12,120,120],
 		"uniqueName": "Generic Nation",
 		"cities": ["Tuklikvik","Nuvunga","Kalliaruq","Qamaniq","Itukvik","Sivuniaq","Panniqtuq","Amaruqvik","Innaqtuq","Qilaluuk","Tasiqlik","Aulattuq"],
+        "spyNames": ["Onatah", "Oneida", "Oshadagea", "Otetiani", "Genesee", "Dadgayadoh", "Otwtiani", "Kateri", "Onondakai", "Honanyawus"]
 	},
 	{
 		"name": "Selanba",
@@ -646,6 +647,7 @@
 		"innerColor": [0,120,0],
 		"uniqueName": "Generic Nation",
 		"cities": ["Árvuokta","Jienásuolu","Nuvvávárri","Ráhčajávri","Gaskavuokta","Vuordnágiella","Ássolvággi","Jorruvárri","Luovdesuolu","Biergálokka","Nieidajávri","Oarjavuokta"],
+        "spyNames": ["Onatah", "Oneida", "Oshadagea", "Otetiani", "Genesee", "Dadgayadoh", "Otwtiani", "Kateri", "Onondakai", "Honanyawus"]
 	},
   {
 		"name": "Valterrum",
@@ -840,6 +842,7 @@
 		"innerColor": [97,191,34],
 		"uniqueName": "Generic Nation",
 		"cities": ["Taligwa","Nvwotiyi","Galitska","Ulansa","Wasiqua","Daneli","Ostona","Selugi","Yanosa","Kawonu","Tsolaqua","Aniyodi"],
+        "spyNames": ["Onatah", "Oneida", "Oshadagea", "Otetiani", "Genesee", "Dadgayadoh", "Otwtiani", "Kateri", "Onondakai", "Honanyawus"]
 	},
   {
 		"name": "Raider Republic",
