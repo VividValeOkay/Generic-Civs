@@ -1752,6 +1752,7 @@
 		"innerColor": [222,120,18],
 		"uniqueName": "Generic Nation",
 		"cities": ["San Aurelio","Puerto Valmera","Santa Isabela","Montelirio","Río Cárdenas","Valle Dorado","Nueva Esmeral","Altamira del Sur","Costa Bravía","San Lucerio","Miraflores Alta","Bahía Claros"],
+        "spyNames": ["Tomás","Ana","Luis","Juana","Diego","Carmen","Javier","Nevada","Ernesto","Florida"]
 	},
 	{
 		"name": "Usedel",
