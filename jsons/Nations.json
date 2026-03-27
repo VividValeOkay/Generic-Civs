@@ -206,13 +206,14 @@
 		"declaringWar": "You choose death! Your people wail and moan! The pillars of your houses shake, all your lands are shaking!",
 		"attacked": "Look at the big civ leader over there with the war declaration! Great job, mate. Really shows off how hard you are.",
 		"defeated": "I have done my utmost, but your strength was greater. My heart, at least, will beat undefeated.",
-		"introduction": "I am Tui, the Queen Mother of Marivella, and I welcome you to the realm. I do so look forward to learning all there is to know about you.",
+		"introduction": "Greetings and blessings upon you, friend. I am Tui, Great Ruler of this strand of islands.",
 
-		"neutralHello": "Welcome.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "Aloha mai, e ke hoa!",
+		"hateHello": "Tsā, ʻo ʻoe kā.",
 
 		"tradeRequest": "Is the following trade of interest to you?",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+        "denounced": "Are you serious..?",
 
 		"outerColor": [255,255,255],
 		"innerColor": [120,35,120],
