@@ -658,10 +658,10 @@
 		"leaderName": "Avitus",
 		"startBias": ["Grassland"],
 
-		"declaringWar": "We are no strangers to war. You have strayed from God's path, and now we will correct it.",
-		"attacked": "You've mistaken my passion for a weakness, you'll regret about this.",
-		"defeated": "We have surrendered... you have defeated us.",
-		"introduction": "Hello, I am Leader. My people call me Leader, but please, call me friend.",
+		"declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
+		"attacked": "So brave, yet so stupid! If only you had a brain similar to your courage.",
+		"defeated": "The gods have deprived Valterrum of their favour. We have been defeated.",
+		"introduction": "I greet you. I am Avitus, Imperator of Valterrum. If you are a friend of Valterrum, you are welcome.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
