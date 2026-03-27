@@ -233,9 +233,9 @@
 		"neutralHello": "Hello.",
 		"hateHello": "What do YOU want?!",
 
-		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
+		"tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
-        "denounced": "Are you serious..?",
+        "denounced": "I'm excited for our upcoming battle, my friend.",
 
 		"outerColor": [120,35,120],
 		"innerColor": [255,255,0],
