@@ -620,7 +620,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Is the following trade of interest to you?",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "We must unite in friendship, lest we be destroyed in division.",
 
 		"outerColor": [190,30,30],
 		"innerColor": [0,65,65],
@@ -641,7 +641,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Let us join our forces together and reap the rewards.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "We must unite in friendship, lest we be destroyed in division.",
 
 		"outerColor": [0,75,75],
 		"innerColor": [0,120,0],
@@ -684,7 +684,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "I offer this, for your consideration.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "We must unite in friendship, lest we be destroyed in division.",
 
 		"outerColor": [210,210,210],
 		"innerColor": [255,255,255],
@@ -1252,7 +1252,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "I request that you consider this offer between our two peoples. I believe it will do us both good.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "We must unite in friendship, lest we be destroyed in division.",
 
 		"outerColor": [83,83,83],
 		"innerColor": [255,178,60],
@@ -1273,7 +1273,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "We must unite in friendship, lest we be destroyed in division.",
 
 		"outerColor": [247,216,1],
 		"innerColor": [0,0,0],
