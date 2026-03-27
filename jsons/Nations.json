@@ -180,16 +180,17 @@
 		"leaderName": "Farrukh",
 		"startBias": ["Plains"],
 
-		"declaringWar": "We have no choice, war it must be.",
-		"attacked": "We shall never surrender.",
-		"defeated": "Is this what death feels like..?",
-		"introduction": "All you see is the land of the Varnasia, and I am their chief.",
+		"declaringWar": "Your territory could be much improved under Varnasian rule. Best I see it through.",
+		"attacked": "Varnasia does not fear war. The most you can do is slow our rightful advance.",
+		"defeated": "You learned my own lessons far too well. I instructed you in my own demise.",
+		"introduction": "I am Farrukh, Mauryan emperor of unified Varnasia. No, it has not gone to my head.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Is the following trade of interest to you?",
 		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+        "denounced": "Are you serious..?",
 
 		"outerColor": [0,0,0],
 		"innerColor": [80,175,50],
