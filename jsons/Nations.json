@@ -470,7 +470,8 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Is the following trade of interest to you?",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "In a world of seething backbiters, fair-minded folk must unite as friends.",
+        "denounced": "You reeking midden! You crooked broker of worthless words! Get out of my sight!"
 
 		"outerColor": [255,255,255],
 		"innerColor": [120,35,120],
