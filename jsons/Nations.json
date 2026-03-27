@@ -727,7 +727,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Let us join our forces together and reap the rewards.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "All the world knows of my generosity to my friends. Let us then be friends, not enemies.",
 
 		"outerColor": [120,35,120],
 		"innerColor": [255,255,0],
@@ -814,7 +814,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Let us join our forces together and reap the rewards.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "All the world knows of my generosity to my friends. Let us then be friends, not enemies.",
 
 		"outerColor": [81,120,156],
 		"innerColor": [248,202,86],
@@ -836,7 +836,7 @@
 		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
-		"declaringFriendship": "I offer this friendship to you. do you feel the same?",
+		"declaringFriendship": "All the world knows of my generosity to my friends. Let us then be friends, not enemies.",
 
 		"outerColor": [1,42,108],
 		"innerColor": [97,191,34],
