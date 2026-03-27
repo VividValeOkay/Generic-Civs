@@ -461,10 +461,10 @@
 		"leaderName": "Randal",
 		"startBias": ["Grassland"],
 
-		"declaringWar": "You're disturbing us, prepare for war.",
-		"attacked": "We will defend our nation at all cost!",
-		"defeated": "Is this what death feels like..?",
-		"introduction": "I am the Goddess reborn, I am the living River Shannon, I am Randal and an ally, if you are worthy.",
+		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
+		"attacked": "You gormless radger! You'll dine on your own teeth before you set foot in Érainn!",
+		"defeated": "A lonely wind blows through the highlands today. A dirge for Érainn. Can you hear it?",
+		"introduction": "I am Randal. Érainn follows me—be it through fields of wheat or of battle.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "What do YOU want?!",
